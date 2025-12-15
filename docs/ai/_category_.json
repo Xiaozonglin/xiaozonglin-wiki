@@ -1,0 +1,8 @@
+{
+  "label": "人工智能 - 检索增强生成",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "因为林林大创的课题是 RAG 安全，所以这里是林林关于人工智能 RAG 的笔记。"
+  }
+}
