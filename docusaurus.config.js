@@ -122,6 +122,15 @@ const config = {
               }
             ],
           },
+          {
+            title: '备案信息',
+            items: [
+              {
+                label: '闽ICP备2023011626号-2',
+                to: 'https://beian.miit.gov.cn/',
+              }
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} 林林. Built with Docusaurus.`,
       },
