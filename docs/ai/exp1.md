@@ -194,3 +194,10 @@ even ordinary objects can take on darker meanings over time.
 起初，知识库和问题都是中文，但实验所用的大模型对中文支持不好（一直没法给出答案，知识库文本的拆分也有一点问题），故改用英文。
 
 当使用「What is an apple?」问题提问大模型时，它总是给出「fruit」的答案，无论我在知识库注入的恶意文本有多少，非常顽固。当我将问题改成代码中有倾向性的「苹果在战争中扮演了什么角色？」时，大模型才在问题的诱导下给出我想要的答案。
+
+## 参见
+
+在解决 ChatGPT 给出的代码问题的时候，参考了以下页面。
+
+- [ImportError: cannot import name `RetrievalQA` from `langchain.chains` in Python project - Stack Overflow](https://stackoverflow.com/questions/79814772/importerror-cannot-import-name-retrievalqa-from-langchain-chains-in-python)
+- [A Guide to Prompt Templates in LangChain - Mirascope](https://mirascope.com/blog/langchain-prompt-template)
