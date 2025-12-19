@@ -139,6 +139,16 @@ const config = {
         darkTheme: prismThemes.dracula,
         additionalLanguages: ['powershell', 'python'],
       },
+      algolia: {
+        appId: 'DDHWAD5QI5',
+        // Public API key: it is safe to commit it
+        apiKey: 'a01a2265058c719c894dee7b7bfe843f',
+        indexName: 'Documentation Wiki',
+        // Optional: Algolia search parameters
+        searchParameters: {},
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+      },
     }),
 };
 
