@@ -128,6 +128,10 @@ const config = {
               {
                 label: '闽ICP备2023011626号-2',
                 to: 'https://beian.miit.gov.cn/',
+              },
+              {
+                label: '陕公网安备61019002003556号',
+                to: 'https://beian.mps.gov.cn/#/query/webSearch?code=61019002003556',
               }
             ],
           },
