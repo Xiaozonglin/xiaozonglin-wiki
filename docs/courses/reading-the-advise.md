@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 读《致新生的你》
 
-> 原文链接：[致新生的你](https://axi404.top/blog/advise)
+> 原文链接：[《致新生的你》](https://axi404.top/blog/advise)
 
 ## 生活的学问
 
