@@ -1,41 +1,9 @@
-# Website
+# 林林的笔记维基
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+林林使用 Docusaurus 构建。
 
-## Installation
+记录我读书、读博客、学东西、听讲座的笔记。
 
-```bash
-yarn
-```
+**为什么不在博客上记笔记？**
 
-## Local Development
-
-```bash
-yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-## Build
-
-```bash
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+答：我觉得这个东西的时效性较弱，用带有时间的博客文章发出来不好看。
