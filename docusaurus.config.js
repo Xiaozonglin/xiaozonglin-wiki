@@ -119,7 +119,11 @@ const config = {
               {
                 label: '友情链接',
                 to: 'https://www.xiaozonglin.cn/friends/'
-              }
+              },
+              {
+                label: '测试对等跳转',
+                to: 'http://127.0.0.1:5000/go?from=https://www.xiaozonglin.cn&to=https://wiki.xiaozonglin.cn'
+              },
             ],
           },
           {
