@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## PHP伪协议
 
-https://zhuanlan.zhihu.com/p/686151790
+[ctf必须知道的php伪协议总结 - 知乎](https://zhuanlan.zhihu.com/p/686151790)
 
 ![php://input](https://www.xiaozonglin.cn/wp-content/uploads/2026/02/屏幕截图-2026-02-22-184155.png)
 
