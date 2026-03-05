@@ -141,7 +141,7 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-        additionalLanguages: ['powershell', 'python', 'php', 'rust', 'golang'],
+        additionalLanguages: ['powershell', 'python', 'php', 'rust', 'go'],
       },
       algolia: {
         appId: 'H59IYZ9TP3',
