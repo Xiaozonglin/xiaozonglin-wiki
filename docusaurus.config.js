@@ -141,12 +141,12 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-        additionalLanguages: ['powershell', 'python'],
+        additionalLanguages: ['powershell', 'python', 'php', 'rust', 'golang'],
       },
       algolia: {
-        appId: 'DDHWAD5QI5',
+        appId: 'H59IYZ9TP3',
         // Public API key: it is safe to commit it
-        apiKey: 'a01a2265058c719c894dee7b7bfe843f',
+        apiKey: 'cf30e408f77eadacb79b054ff7bc4b51',
         indexName: 'Documentation Wiki',
         // Optional: Algolia search parameters
         searchParameters: {},
