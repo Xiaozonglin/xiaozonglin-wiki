@@ -53,7 +53,7 @@ ref: [用法 | sqlmap 用户手册](https://sqlmap.highlight.ink/usage)
 
 ## 实战
 
-![](img/sqlmap1.png)
+![](../img/sqlmap1.png)
 这一题的环境是一个文章列表，点进去具体的文章页面的链接是`index.php?id=2`，我试着用 Burp 抓到 sqlmap 试一试。
 
 ```powershell
