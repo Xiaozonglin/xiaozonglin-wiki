@@ -1,4 +1,7 @@
 # OBRM与内存管理
+
+[[pointer-and-reference]]
+
 原则：
 - Each value in Rust has a variable that's called its owner.
 - There can be only one owner at a time.
