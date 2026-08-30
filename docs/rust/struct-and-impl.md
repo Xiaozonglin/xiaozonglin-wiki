@@ -103,3 +103,61 @@ let plus = Calculate::Plus { a: 1, b: 2 };
 ```
 
 与此同时，`enum`可以用`impl`实现一些方法。
+
+### 模式匹配
+
+模式匹配类似于`match {case ..}`，但必须包含所有情况。
+
+```rust
+let age = 3;
+
+match age {
+	11 => println!("You are eleven years old."),
+	13..=19 => println!("You are a teenager."),
+	x => println!("You are {x} years old."), // 也可以用_，但这样就捕获不到age了
+}
+```
+
+### `Option`枚举
+
+```rust
+let a = Some("example");
+if a.is_some() {
+	println!("{}", a.unwrap());
+}
+```
+
+https://doc.rust-lang.org/std/option/enum.Option.html
+
+```rust
+let a = Some("example");
+match a {
+	Some(x) => println!("{}", x),
+	None => {}
+}
+```
+
+```rust
+let a = Some("example");
+if let Some(x) = a {
+	println!("{}", x);
+}
+```
+`if let`可以视作`match`的语法糖，可以不用每次都写`None`的情况。
+
+```rust
+fn main() {
+	let a = Some("example");
+	let Some(x) = a else {
+		return ;
+	};
+	println!("{}", x);
+}
+```
+
+### `Result`枚举
+
+```rust
+let a: Result<&str, &str> = Ok("example");
+println!("{}", a.ok().unwrap());
+```
