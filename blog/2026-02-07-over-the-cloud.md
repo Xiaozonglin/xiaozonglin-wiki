@@ -2,11 +2,11 @@
 id: 789
 title: 云上
 date: '2026-02-07T23:25:21+08:00'
-author: 林林
+authors: 林林
 excerpt: 短聚，长离。
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=789'
-permalink: /over-the-cloud/
+slug: /over-the-cloud/
 footnotes:
     - ''
 enclosure:

@@ -2,11 +2,11 @@
 id: 1375
 title: 小东西：用FreshRSS实现带AI摘要的订阅推送
 date: '2026-05-10T12:38:40+08:00'
-author: 林林
+authors: 林林
 excerpt: '用FreshRSS + Python + Napcat实现带AI摘要的订阅QQ群推送'
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=1375'
-permalink: /xdsec-push-bot/
+slug: /xdsec-push-bot/
 categories:
     - 开发
 tags:
@@ -26,8 +26,8 @@ format: false
 
 </figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/image-1-1024x106.png)<figcaption class="wp-element-caption">流程图</figcaption></figure>FreshRSS我用Docker方式部署，在应用中开放接口登录并设置一下API密钥，原本打算自己看着接口文档搞的，结果一搜发现Python有对应的接口库[freshrss-api](https://pypi.org/project/freshrss-api/)，直接就拿来用了。
 
-<div class="wp-block-kevinbatdorf-code-block-pro cbp-has-line-numbers cbp-blur-enabled cbp-unblur-on-hover" data-code-block-pro-font-family="Code-Pro-JetBrains-Mono" style="font-size:clamp(14px, .875rem, 21px);font-family:Code-Pro-JetBrains-Mono,ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace;--cbp-line-number-color:#000000;--cbp-line-number-width:calc(2 * 0.6 * .875rem);line-height:clamp(20px, 1.25rem, 30px);--cbp-tab-width:2;tab-size:var(--cbp-tab-width, 2)"><span style="display:flex;align-items:center;padding:10px 0px 0 16px;font-size:0.8em;width:100%;text-align:left;background-color:#FFFFFF;font-style:italic;color:#000000"><span style="border-bottom:1px solid rgba(0, 0, 0, 0.2)">Python</span></span><span aria-label="复制" class="code-block-pro-copy-button" role="button" style="color:#000000;display:none" tabindex="0">```
-<textarea aria-hidden="true" class="code-block-pro-copy-button-textarea" readonly="readonly" tabindex="-1">from freshrss_api import FreshRSSAPI
+```python
+from freshrss_api import FreshRSSAPI
 client = FreshRSSAPI(
     host="xxx",
     username="xxx",
@@ -40,10 +40,9 @@ unread_items = client.get_unreads()
 passages = []
 pass_text = ""
 
-
 for i in unread_items:
     passages.append([i.author, i.title, i.url, i.html, str(trafilatura.extract(trafilatura.fetch_url(i.url), output_format='markdown', include_tables=True))])
-    client.set_mark(as_="read", id=i.id)</textarea>
+    client.set_mark(as_="read", id=i.id)
 ```
 
 <svg fill="none" stroke="currentColor" stroke-width="2" style="width:24px;height:24px" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path class="with-check" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-6 9l2 2 4-4" stroke-linecap="round" stroke-linejoin="round"></path><path class="without-check" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>```

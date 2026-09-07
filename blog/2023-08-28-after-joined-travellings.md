@@ -1,21 +1,14 @@
 ---
-id: 287
 title: 加入开往团队所给我带来的
 date: '2023-08-28T20:22:48+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=287'
-permalink: /after-joined-travellings/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /after-joined-travellings/
 categories:
     - 日志
 tags:
     - 人际交往
     - 开往
     - 故事
-format: false
 ---
 
 （以下内容都是我语音输入出来的，也就是说出来的，你可以想象一个人面对面的在跟你说话）

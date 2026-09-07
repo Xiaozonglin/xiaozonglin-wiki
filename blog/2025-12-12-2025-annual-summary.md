@@ -1,23 +1,20 @@
 ---
-id: 459
 title: 2025年终总结
 date: '2025-12-12T23:11:51+08:00'
-author: 林林
-excerpt: "又到了写年终总结的时候，这是我博客的第四篇年终总结，这个博客记录着我从高一到现在的三年时光，记录着我的幼稚和愚昧。\n本年回坑《原神》，玩了《都市天际线2》和《崩坏：星穹铁道》。大概介绍了大一上学期做的一些事情。"
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=459'
-permalink: /2025-annual-summary/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /2025-annual-summary/
 categories:
     - 日志
 tags:
     - '2025'
     - 年终总结
-format: false
 ---
 
-<figure class="wp-block-image aligncenter size-large is-resized">![](/wp-content/uploads/2025/12/IMG_20251231_153853-768x1024.jpg)<figcaption class="wp-element-caption">12月31日，西安下起了第一场雪</figcaption></figure>来北方上学的一项期待就是看雪，西安的雪泡汤了几次，今天终于把雪下下来了。雪很细，原本以为雪是白的，像冰淇淋一样，结果雪落到衣服上是小冰晶。
+![](/wp-content/uploads/2025/12/IMG_20251231_153853-768x1024.jpg)
+
+12月31日，西安下起了第一场雪
+
+来北方上学的一项期待就是看雪，西安的雪泡汤了几次，今天终于把雪下下来了。雪很细，原本以为雪是白的，像冰淇淋一样，结果雪落到衣服上是小冰晶。
 
 又来到每年本博客的固定节目：年终总结。
 
@@ -33,10 +30,30 @@ format: false
 
 参加了院辩论队的面试，一面跟学长聊辩题，二面打一场比赛。参加了宏辞新生赛的其中一场。参加了辩论队的一次团建，一起玩狼人杀，这是到了大学唯二跟别的同学一起笑。
 
-<figure class="wp-block-image aligncenter is-resized">![](/wp-content/uploads/2025/12/a61592393ede469ba0de7f573bcaa8fa-2-768x1024.jpg)<figcaption class="wp-element-caption">在宏辞新生辩论赛上</figcaption></figure>参加了院团委和两社团的联合招新，加入了赛博阳光志愿者队。参加了几个志愿服务活动，帮院团委完成一些任务。
+![](/wp-content/uploads/2025/12/a61592393ede469ba0de7f573bcaa8fa-2-768x1024.jpg)
+
+在宏辞新生辩论赛上
+
+参加了院团委和两社团的联合招新，加入了赛博阳光志愿者队。参加了几个志愿服务活动，帮院团委完成一些任务。
 
 参加了信安协会的两轮招新，给协会的周报系统提交了一两次代码（不是自己写的）。
 
 看了《疯狂动物城2》和《罗小黑战记》两部电影。
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2025/12/IMG_20251128_214840-768x1024.jpg)<figcaption class="wp-element-caption">看电影</figcaption></figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2025/12/IMG_20251120_215546-768x1024.jpg)<figcaption class="wp-element-caption">大创汇报论文</figcaption></figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2025/12/IMG_20251019_145421-768x1024.jpg)<figcaption class="wp-element-caption">大学生信息素养大赛</figcaption></figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2025/12/IMG_20250929_181851-768x1024.jpg)<figcaption class="wp-element-caption">西电的晴空</figcaption></figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2025/12/IMG_20250929_181819-768x1024.jpg)<figcaption class="wp-element-caption">西电的晴空</figcaption></figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2025/12/IMG_20250923_181706-768x1024.jpg)<figcaption class="wp-element-caption">西电的晴空</figcaption></figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2025/12/IMG_20250814_185657-768x1024.jpg)<figcaption class="wp-element-caption">高考后的暑假在小区散步的时候拍了一张</figcaption></figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2025/12/IMG_20251008_131719-768x1024.jpg)<figcaption class="wp-element-caption">看电影</figcaption></figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2025/12/IMG_20250906_081914-1024x768.jpg)<figcaption class="wp-element-caption">开学典礼</figcaption></figure></figure>
+![](/wp-content/uploads/2025/12/IMG_20251128_214840-768x1024.jpg)
+
+![](/wp-content/uploads/2025/12/IMG_20251120_215546-768x1024.jpg)
+
+![](/wp-content/uploads/2025/12/IMG_20251019_145421-768x1024.jpg)
+
+![](/wp-content/uploads/2025/12/IMG_20250929_181851-768x1024.jpg)
+
+![](/wp-content/uploads/2025/12/IMG_20250929_181819-768x1024.jpg)
+
+![](/wp-content/uploads/2025/12/IMG_20250923_181706-768x1024.jpg)
+
+![](/wp-content/uploads/2025/12/IMG_20250814_185657-768x1024.jpg)
+
+![](/wp-content/uploads/2025/12/IMG_20251008_131719-768x1024.jpg)
+
+![](/wp-content/uploads/2025/12/IMG_20250906_081914-1024x768.jpg)

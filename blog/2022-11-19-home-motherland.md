@@ -1,23 +1,20 @@
 ---
-id: 85
 title: 家
 date: '2022-11-19T17:31:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=85'
-permalink: /home-motherland/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /home-motherland/
 categories:
     - 生活
 tags:
     - 杂谈
     - 自我
-format: false
 ---
 
-<figure class="wp-block-audio"><audio controls="" src="/wp-content/uploads/2022/11/陈致逸HOYO-MiX-Midday-Prospects-午日的眺望.mp3"></audio><figcaption class="wp-element-caption">《午日的眺望》</figcaption></figure>家啊，对于像浮萍一样漂泊不定的游子来说，像是他们旅途中时刻呼唤他们的神灵，“回来吧回来吧”，像是一处专供旅人休息的客栈，他们可以在此停歇，像是一位知己，在外单打独斗累了，家里有一群理解、包容你的人，和你分享欢乐与忧伤。
+<audio controls="" src="/wp-content/uploads/2022/11/陈致逸HOYO-MiX-Midday-Prospects-午日的眺望.mp3"></audio>
+
+《午日的眺望》
+
+家啊，对于像浮萍一样漂泊不定的游子来说，像是他们旅途中时刻呼唤他们的神灵，“回来吧回来吧”，像是一处专供旅人休息的客栈，他们可以在此停歇，像是一位知己，在外单打独斗累了，家里有一群理解、包容你的人，和你分享欢乐与忧伤。
 
 无论你走到哪里，家永远在那个地方。心所指的方向，就是家的方向啊。家里有自己熟悉的景象、熟悉的声音。我们在城市，已经感受不到炊烟袅袅升起的安慰，但我们在家里仍能感受听见厨房里炒菜声音的踏实。听着声音，想着等会家人带着笑脸端上来的菜，热气腾腾，颜色鲜艳。有一个稚嫩活泼的声音在喊：“一起吃饭喽，一起吃饭喽。”大家闻声而来，围坐在桌旁，热热闹闹。其乐融融。想到这不禁潸然。家啊，像梦一样是个有温度的地方。
 

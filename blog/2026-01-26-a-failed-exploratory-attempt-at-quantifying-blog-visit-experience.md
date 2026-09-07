@@ -1,21 +1,12 @@
 ---
-id: 645
 title: 博客访问体验量化评估方法的失败探索尝试
 date: '2026-01-26T23:32:12+08:00'
-author: 林林
-excerpt: 本文是对博客访问体验进行量化评估的一次技术探索，然而并未提出成熟的量化评估体系。
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=645'
-permalink: /a-failed-exploratory-attempt-at-quantifying-blog-visit-experience/
-footnotes:
-    - '[{"content":"孙聪妮.视觉元素在网页设计中的应用与研究[J].卫星电视与宽带多媒体,2019,(19):56-57","id":"e59afa37-c251-49bf-bc65-775dec15493a"}]'
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /a-failed-exploratory-attempt-at-quantifying-blog-visit-experience/
 categories:
     - 技术与研究
 tags:
     - 博客
-format: false
 ---
 
 ## 1. 前言
@@ -32,7 +23,7 @@ format: false
 
 ## 2. 影响因素
 
-网页设计的过程中应当有效管理视觉配色、规范设计排版样式和精简 Tab 标签信息等事项<sup class="fn" data-fn="e59afa37-c251-49bf-bc65-775dec15493a">[1](#e59afa37-c251-49bf-bc65-775dec15493a)</sup>。结合各位大佬发的文章（[《谈谈不受欢迎的博客技术特征》](https://blog.zhilu.site/2025/unpopular-blog-tech)、[《关于无后端 web 服务的优化方案和思路》](https://lemonkoi.one/posts/share/17)、[《中文博客倡议》](https://howiehz.top/archives/chinese-blog-guidelines#CBGB006)等），容我粗略总结博客访问体验的影响因素，也就是评估应该纳入考量的东西。
+网页设计的过程中应当有效管理视觉配色、规范设计排版样式和精简 Tab 标签信息等事项。结合各位大佬发的文章（[《谈谈不受欢迎的博客技术特征》](https://blog.zhilu.site/2025/unpopular-blog-tech)、[《关于无后端 web 服务的优化方案和思路》](https://lemonkoi.one/posts/share/17)、[《中文博客倡议》](https://howiehz.top/archives/chinese-blog-guidelines#CBGB006)等），容我粗略总结博客访问体验的影响因素，也就是评估应该纳入考量的东西。
 
 - 访问所需时间（域名解析耗时、TTFB、FCP、LCP等）
 - 不必要的特效（鼠标移动、评论区打字时的特效）
@@ -48,7 +39,7 @@ format: false
 
 为了探究访问所需时间的几个指标的影响，我对 100 个博客进行了测试，由于网络条件，我只测试成功了 36 个，拉了一张表出来。
 
-<figure class="wp-block-table alignwide is-style-stripes">| 序号 | 博客名称 | URL | 总耗时(s) | TTFB(s) | LCP(ms) | DOM加载(ms) |
+| 序号 | 博客名称 | URL | 总耗时(s) | TTFB(s) | LCP(ms) | DOM加载(ms) |
 |---|---|---|---|---|---|---|
 | 1 | TomyJan 的博客 |[https://blog.tomys.top](https://blog.tomys.top) | ***29.044*** | 0.040 | 19951 | 2232 |
 | 2 | 不淡定的实验室 |[https://xd.sh.cn](https://xd.sh.cn) | ***27.441*** | 0.366 | 18673 | 2303 |
@@ -57,7 +48,9 @@ format: false
 | 35 | 夏日鱼塘 |[https://www.summerpond.cn](https://www.summerpond.cn) | 6.176 | 0.089 | 1676 | 1550 |
 | 36 | MBRjun-Blog |[https://www.libmbr.com](https://www.libmbr.com) | 5.879 | 0.044 | 1257 | 1313 |
 
-<figcaption class="wp-element-caption">表一 36 个博客的访问耗时、TTFB、LCP 和 DOM 加载耗时</figcaption></figure>上表中的第 1 个博客虽然测出来的总耗时较长，但是实际访问似乎在 1500ms 前就将主体内容（网站名称、简介、背景图片）加载出来了，后面不知道在加载什么东西。自动播放音乐 + 弹窗广告 + 切换标签页改标题 + 看板娘，后面可以用这个网站做测试（也是 buff 叠满了）。第 2 个网站也是，前 1500ms 就把文章列表这些内容加载好了，后面请求 gravatar 头像的时候拖了 14 秒……感觉是这些没用的资源把 LCP 抬高到原本不属于它的高度。虽然无语，但是这两个例子说明页面加载的总耗时没办法代表我们访问博客时的实际体验。TTFB 能稍微体现访问网站刚开始空白加载的时间，但代表性不大。DOM 加载时间的差别我访问时是感受不到的。
+表一 36 个博客的访问耗时、TTFB、LCP 和 DOM 加载耗时
+
+上表中的第 1 个博客虽然测出来的总耗时较长，但是实际访问似乎在 1500ms 前就将主体内容（网站名称、简介、背景图片）加载出来了，后面不知道在加载什么东西。自动播放音乐 + 弹窗广告 + 切换标签页改标题 + 看板娘，后面可以用这个网站做测试（也是 buff 叠满了）。第 2 个网站也是，前 1500ms 就把文章列表这些内容加载好了，后面请求 gravatar 头像的时候拖了 14 秒……感觉是这些没用的资源把 LCP 抬高到原本不属于它的高度。虽然无语，但是这两个例子说明页面加载的总耗时没办法代表我们访问博客时的实际体验。TTFB 能稍微体现访问网站刚开始空白加载的时间，但代表性不大。DOM 加载时间的差别我访问时是感受不到的。
 
 啊，感觉找的这几个指标都挺废的（虽然指标优秀的博客访问体验的确挺好）。于是，我问 Deepseek：
 
@@ -65,7 +58,7 @@ format: false
 
 它向我推荐 Speed Index 和 TTI 这两个指标，「页面内容视觉填充的速度」和「页面完全可交互的时间」，感觉是我想要的指标。拿这两个指标再测一下，拉一个表。
 
-<figure class="wp-block-table alignwide is-style-stripes">| 排名 | 博客名称 | URL | Speed Index(ms) | TTI(ms) |
+| 排名 | 博客名称 | URL | Speed Index(ms) | TTI(ms) |
 |---|---|---|---|---|
 | 1 | Foxhole |[https://blog.southfox.me](https://blog.southfox.me) | 15903 | 10541 |
 | 2 | 异国迷宫的十字路口 |[https://blog.fivezha.cn](https://blog.fivezha.cn) | 14955 | 3264 |
@@ -75,7 +68,9 @@ format: false
 | 58 | MBRjun-Blog |[https://www.libmbr.com](https://www.libmbr.com) | 1429 | 1317 |
 | 59 | Declan's Blog |[https://blog.haojin.li](https://blog.haojin.li) | 1092 | 1092 |
 
-<figcaption class="wp-element-caption">表二 部分博客的 Speed Index 和 TTI</figcaption></figure>不得不说，这两个指标还真「有点东西」。Speed Index 高的博客相比于 Speed Index 低的博客页面加载感觉会慢一点。TTI 在一些 Speed Index 比较高的博客反而比较低，例如表一的第 1 个博客，Speed Index 为 13580ms，而 TTI 却为 2144ms，有一些资源加载很慢，但页面主体加载比较快，访客访问很快就可以与页面交互了。因此，TTI 比 Speed Index 更能够描述页面主体的加载速度。
+表二 部分博客的 Speed Index 和 TTI
+
+不得不说，这两个指标还真「有点东西」。Speed Index 高的博客相比于 Speed Index 低的博客页面加载感觉会慢一点。TTI 在一些 Speed Index 比较高的博客反而比较低，例如表一的第 1 个博客，Speed Index 为 13580ms，而 TTI 却为 2144ms，有一些资源加载很慢，但页面主体加载比较快，访客访问很快就可以与页面交互了。因此，TTI 比 Speed Index 更能够描述页面主体的加载速度。
 
 故，我们可以粗略定义一个基于访问速度的因子：
 
@@ -87,7 +82,7 @@ format: false
 
 我又双叒给这个 Factor 拉了一张表。
 
-<figure class="wp-block-table alignwide is-style-stripes">| 排名 | 博客名称 | URL | Factor |
+| 排名 | 博客名称 | URL | Factor |
 |---|---|---|---|
 | 1 | MBRjun-Blog |[https://www.libmbr.com](https://www.libmbr.com) | 69.84 |
 | 2 | ncc 的个人网站 |[https://www.zqcnc.cn](https://www.zqcnc.cn) | 69.49 |
@@ -100,7 +95,9 @@ format: false
 | 26 | 提莫酱的博客 |[https://www.timochan.cn](https://www.timochan.cn) | 46.75 |
 | 27 | 人家故里 |[https://fx7.top](https://fx7.top) | 46.45 |
 
-<figcaption class="wp-element-caption">表三 Factor解析式方案一实测数据</figcaption></figure>原本还有另外一个解析式来增大不同博客 Factor 的区分度，但是测了一遍「属实」是太有区分度了，没用这个。既然做了，公式和数据贴在这里。
+表三 Factor解析式方案一实测数据
+
+原本还有另外一个解析式来增大不同博客 Factor 的区分度，但是测了一遍「属实」是太有区分度了，没用这个。既然做了，公式和数据贴在这里。
 
 <div class="wp-block-math"><math display="block"><semantics><mrow><mtext>Factor</mtext><mo>=</mo><mrow><mi>max</mi><mo>⁡</mo></mrow><mrow><mo fence="true" form="prefix">(</mo><mn>0</mn><mo separator="true">,</mo><mn>100</mn><mo>−</mo><msup><mrow><mo fence="true" form="prefix">(</mo><mfrac><mtext>TTI</mtext><mn>50</mn></mfrac><mo>+</mo><mfrac><mtext>Speed Index</mtext><mn>100</mn></mfrac><mo>+</mo><mtext>TTFB</mtext><mo>×</mo><mn>200</mn><mo fence="true" form="postfix">)</mo></mrow><mn>0.7</mn></msup><mo fence="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\\text{Factor} = \\max\\left(0, 100 - \\left(\\frac{\\text{TTI}}{50} + \\frac{\\text{Speed Index}}{100} + \\text{TTFB} \\times 200\\right)^{0.7}\\right)</annotation></semantics></math></div><figure class="wp-block-table alignwide is-style-stripes">| 排名 | 博客名称 | URL | Factor |
 |---|---|---|---|

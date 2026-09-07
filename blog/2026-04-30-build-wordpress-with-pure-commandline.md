@@ -2,11 +2,11 @@
 id: 1296
 title: 再见面板：Debian构建WordPress
 date: '2026-04-30T23:42:30+08:00'
-author: 林林
+authors: 林林
 excerpt: ''
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=1296'
-permalink: /build-wordpress-with-pure-commandline/
+slug: /build-wordpress-with-pure-commandline/
 categories:
     - 技术与研究
 tags:

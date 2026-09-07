@@ -1,14 +1,8 @@
 ---
-id: 300
 title: 生日
 date: '2024-01-13T22:35:23+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=300'
-permalink: /happy-birthday/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /happy-birthday/
 categories:
     - 日志
 tags:
@@ -16,7 +10,6 @@ tags:
     - 生命
     - 生日
     - 随笔
-format: false
 ---
 
 这些天我因为辩论赛几乎没再写过什么完整的文章了。2024年1月4日，是我的公历生日。一想到“生日”这个话题还蛮有意思的，于是想要动笔写作这篇文章。

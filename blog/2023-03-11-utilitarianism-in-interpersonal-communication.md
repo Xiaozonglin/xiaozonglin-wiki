@@ -1,23 +1,16 @@
 ---
-id: 259
 title: 从“然后呢”谈功利性的人际交往
 date: '2023-03-11T20:43:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=259'
-permalink: /utilitarianism-in-interpersonal-communication/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /utilitarianism-in-interpersonal-communication/
 categories:
     - 生活
 tags:
     - 人际交往
     - 杂谈
-format: false
 ---
 
-在前面我们谈到了线上交往的局限性（详见 [/archives/terrible-online-chatting/](/archives/terrible-online-chatting/) ），在此，我们来谈论一下功利性的人际交往。试看下面一段对话：
+在前面我们谈到了线上交往的局限性（详见 [/terrible-online-chatting/](/terrible-online-chatting/) ），在此，我们来谈论一下功利性的人际交往。试看下面一段对话：
 
 > 老师，我读完《三体》了。  
 > 然后呢？  

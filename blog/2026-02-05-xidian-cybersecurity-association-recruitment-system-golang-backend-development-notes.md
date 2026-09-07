@@ -2,11 +2,11 @@
 id: 713
 title: '西电信安协会招新系统 Golang 后端开发小记'
 date: '2026-02-05T18:07:31+08:00'
-author: 林林
+authors: 林林
 excerpt: '跟 CopperKoi 同学用 Vite + Golang 写了信安协会一个新的招新系统，在过程中遇到 gin 的一些坑。'
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=713'
-permalink: /xidian-cybersecurity-association-recruitment-system-golang-backend-development-notes/
+slug: /xidian-cybersecurity-association-recruitment-system-golang-backend-development-notes/
 ppma_authors_name:
     - 林林
 categories:

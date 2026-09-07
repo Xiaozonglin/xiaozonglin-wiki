@@ -1,19 +1,12 @@
 ---
-id: 136
 title: 综谈网络头像
 date: '2022-12-03T21:12:32+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=136'
-permalink: /network-avatar/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /network-avatar/
 categories:
     - 生活
 tags:
     - 杂谈
-format: false
 ---
 
 这一周英语上到必修二，第一课信息技术就谈到了头像。现在去留意了一下，我的好友的头像，有风景、球星、自拍等等等等，但大多数人包括我自己会选择一个动漫的图片做头像。
@@ -26,7 +19,7 @@ format: false
 2. 注重他人的评判与眼光，害怕公开化的个人头像招致他人的凝视和讨论。
 3. 强调精神自我，倾向于借由客体“托物言志”。
 
-论文在这里<https://www.nssd.cn/html/1/156/159/index.html?lngId=SZSHKX2021004007>，感兴趣的可以读一下。
+论文在这里[https://www.nssd.cn/html/1/156/159/index.html?lngId=SZSHKX2021004007](https://www.nssd.cn/html/1/156/159/index.html?lngId=SZSHKX2021004007)，感兴趣的可以读一下。
 
 ---
 

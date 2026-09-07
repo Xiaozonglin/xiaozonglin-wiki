@@ -1,17 +1,12 @@
 ---
-id: 247
 title: 博客聚合项目盘点
 date: '2023-01-24T16:40:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=247'
-permalink: /blog-collection-organizations/
+authors: 林林
+slug: /blog-collection-organizations/
 ppma_authors_name:
     - 林林
 categories:
     - 网站
-format: false
 ---
 
 推荐阅读：[谈谈几个博客聚合网站，以及个人推荐](https://zhengduo.wordpress.com/2022/12/09/zh-blogs-site-link/)

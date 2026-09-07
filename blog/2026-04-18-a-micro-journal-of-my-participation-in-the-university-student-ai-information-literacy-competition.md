@@ -2,11 +2,11 @@
 id: 1230
 title: 旧事重提：大学生“AI+信息素养”大赛参赛微记
 date: '2026-04-18T15:06:25+08:00'
-author: 林林
+authors: 林林
 excerpt: 记录一下去年参加“AI+信息素养”大赛的过程，权当是水一篇文章。
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=1230'
-permalink: /a-micro-journal-of-my-participation-in-the-university-student-ai-information-literacy-competition/
+slug: /a-micro-journal-of-my-participation-in-the-university-student-ai-information-literacy-competition/
 categories:
     - 技术与研究
 tags:
@@ -39,5 +39,5 @@ format: false
 
 **附录**  
 以下为本次大赛过程的材料。有需要的同学可自行下载，仅供个人学习参考。请勿二次传播、转载或用于任何商业/竞赛直接提交用途。  
-<https://www.alipan.com/s/tMEHoB7vhEd> 提取码：gk40  
-<https://pan.baidu.com/s/1Te9tw4DxZKYzz3AHi1zKlQ> 提取码：39qk
+[https://www.alipan.com/s/tMEHoB7vhEd](https://www.alipan.com/s/tMEHoB7vhEd) 提取码：gk40  
+[https://pan.baidu.com/s/1Te9tw4DxZKYzz3AHi1zKlQ](https://pan.baidu.com/s/1Te9tw4DxZKYzz3AHi1zKlQ) 提取码：39qk

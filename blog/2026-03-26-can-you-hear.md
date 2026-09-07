@@ -2,11 +2,11 @@
 id: 1064
 title: 听得见吗？
 date: '2026-03-26T11:58:22+08:00'
-author: 林林
+authors: 林林
 excerpt: ''
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=1064'
-permalink: /can-you-hear/
+slug: /can-you-hear/
 ppma_authors_name:
     - 林林
 categories:

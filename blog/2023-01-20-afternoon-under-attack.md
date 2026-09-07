@@ -1,19 +1,12 @@
 ---
-id: 240
 title: 被攻击的下午
 date: '2023-01-20T21:22:33+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=240'
-permalink: /afternoon-under-attack/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /afternoon-under-attack/
 categories:
     - 生活
 tags:
     - '2023'
-format: false
 ---
 
 今天上午去市科技馆玩，回到家已经是下午一点了。在科技馆拍的都是视频，不太方便上传到这里。然后吃完午饭就去睡觉，一觉起来就下午四点。刚起床就抓过手机一看，发现收到腾讯云的四条短信，察觉到今天下午三点被人DDos攻击了。

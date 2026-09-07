@@ -1,21 +1,14 @@
 ---
-id: 308
 title: 变老
 date: '2024-07-11T10:23:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=308'
-permalink: /coming-old/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /coming-old/
 categories:
     - 沉思
 tags:
     - 怀旧
     - 生命
     - 随笔
-format: false
 ---
 
 在电影《头脑特工队2》中出现了新人物——怀旧奶奶。虽然并没有什么戏份，但也触动到了我。  

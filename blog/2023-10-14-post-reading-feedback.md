@@ -1,19 +1,12 @@
 ---
-id: 293
 title: 读后感
 date: '2023-10-14T22:35:37+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=293'
-permalink: /post-reading-feedback/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /post-reading-feedback/
 categories:
     - 生活
 tags:
     - 阅读
-format: false
 ---
 
 在小学，我似乎没有读过多少书。有些书，例如《阁楼里的秘密》和《绿山墙的安妮》里面的内容我已不记得了，当时可能也没有太认真看。《金银岛》只看了开头和结尾。从小学开始，我们的作业里就有读后感，别的班级甚至还有阅读检测题。写这些读后感的时候都会不自觉地写成摘抄，但摘抄的内容现在不记得了。《山羊不吃回头草》《青铜葵花》《童年》和《母亲》里的东西仍然记忆犹新。

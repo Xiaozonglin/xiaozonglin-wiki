@@ -1,21 +1,14 @@
 ---
-id: 403
 title: '使用 Acrylic 复现百团大战 WiFi 钓鱼攻击：关于 Klutton 学长记录的补充'
 date: '2025-10-07T22:58:21+08:00'
-author: 林林
-excerpt: '在百团大战了解了受控 DNS 的钓鱼网络攻击，并在国庆假期用 Acrylic 替代 dnsmasq 复现了这个实验。'
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=403'
-permalink: /acrylic-wifi-phishing/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /acrylic-wifi-phishing/
 categories:
     - 安全
 tags:
     - Acrylic
     - 无线安全
     - '钓鱼 WiFi'
-format: false
 ---
 
 ## 起因

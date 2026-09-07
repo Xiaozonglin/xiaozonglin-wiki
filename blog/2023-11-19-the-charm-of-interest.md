@@ -1,20 +1,13 @@
 ---
-id: 299
 title: 兴趣的魅力
 date: '2023-11-19T15:48:32+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=299'
-permalink: /the-charm-of-interest/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /the-charm-of-interest/
 categories:
     - 日志
 tags:
     - 杂谈
     - 自我
-format: false
 ---
 
 在英语当中，喜欢有like和love两个单词，分别表示不同的程度。若是程度比love还要深，那就要用热爱passion来描述了。一个人要想将某件事情做到极致，大概就需要对这件事情有兴趣。许智宏院士曾说过：“不管做什么工作，一旦有了兴趣，你就会有毅力坚持下去，可以长时间专注于一件事情。”热爱在我眼中是对某件事情“痛并快乐着”。热爱一件事情，无论在这件事情上花多少时间，我都乐意。

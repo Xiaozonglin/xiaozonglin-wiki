@@ -1,20 +1,13 @@
 ---
-id: 71
 title: 谈学习
 date: '2022-11-13T16:02:48+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=71'
-permalink: /talk-about-study/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /talk-about-study/
 categories:
     - 生活
 tags:
     - 学习
     - 杂谈
-format: false
 ---
 
 “怎么样才能学得更好？”“你是怎么考出这么个成绩的？”这些问题的一些答案来自我们对于学习，对于做事的态度。只要你拿出那种连眼保健操、跑操都要认真做到位的态度去面对生活，我想，学习应该对你来说不难。在我看来，认真的生活态度有以下体现：
@@ -51,7 +44,9 @@ format: false
 
 第四个内容是去教别人、当老师。晚自习的时候我有给一位同学在老师在办公室里教地理，她有的时候是拿着热力环流的课文让我讲，有的时候带着试卷上面不会做的题目给我。（这其中有些题目我也不会讲，就去问地理老师，顺便自己也听一听）还给她整过提纲，这次期中考试押中了三四题吧。
 
-<figure class="wp-block-image aligncenter size-full is-resized">![](/wp-content/uploads/2022/11/Screenshot_20221113_154948.jpg)<figcaption class="wp-element-caption">有图为证</figcaption></figure>对于知识掌握最好的方式就是教别人。我们的物理老师说，如果你能将别人教会，那么你就对这个知识点理解到位了。
+![](/wp-content/uploads/2022/11/Screenshot_20221113_154948.jpg)
+
+有图为证。对于知识掌握最好的方式就是教别人。我们的物理老师说，如果你能将别人教会，那么你就对这个知识点理解到位了。
 
 再接着要讲的是“该学要学好，该睡要睡好”。这很重要。我有一位舍友晚上喝咖啡卷到凌晨，而且不是一天两天的事。身体是革命的本钱，熬夜伤了身体多不好。（对于我这个做过手术的人来说感触更深）我个人认为，在教室把每天的作业做好、课认真听，就足够了。
 

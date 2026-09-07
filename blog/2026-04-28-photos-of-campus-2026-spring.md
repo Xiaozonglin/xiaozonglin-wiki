@@ -2,11 +2,11 @@
 id: 1256
 title: 半学期记：春日校园
 date: '2026-04-28T09:40:46+08:00'
-author: 林林
+authors: 林林
 excerpt: 分享自己半个学期以来拍的照片。
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=1256'
-permalink: /photos-of-campus-2026-spring/
+slug: /photos-of-campus-2026-spring/
 categories:
     - 生活
 tags:

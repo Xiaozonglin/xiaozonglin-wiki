@@ -1,17 +1,10 @@
 ---
-id: 209
 title: 中国境内个人博客网站相关政策收集
 date: '2022-12-30T16:50:01+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=209'
-permalink: /policies-about-chinese-blog-sites/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /policies-about-chinese-blog-sites/
 categories:
     - 网站
-format: false
 ---
 
 我主要通过公安机关互联网站安全管理服务平台来查找政策文件，并按照“评论留言”“文章版权与合规”和“网络安全与信息保护”三方面进行分类，明确博客网站站长在各方面应尽到的主体责任，本文也尽力给出有关问题的解决方案。

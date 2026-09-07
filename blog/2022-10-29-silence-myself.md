@@ -1,20 +1,13 @@
 ---
-id: 16
 title: 静与自我
 date: '2022-10-29T19:56:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=16'
-permalink: /silence-myself/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /silence-myself/
 categories:
     - 生活
 tags:
     - 杂谈
     - 自我
-format: false
 ---
 
 ```

@@ -1,21 +1,14 @@
 ---
-id: 11
 title: 从《原神》谈到氪金
 date: '2022-10-23T15:26:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=11'
-permalink: /talk-about-yuanshen-kejin/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /talk-about-yuanshen-kejin/
 categories:
     - 生活
 tags:
     - 原神
     - 杂谈
     - 氪金
-format: false
 ---
 
 ```
@@ -45,4 +38,4 @@ format: false
 
 ref:
 
-- [原神不氪金能在游戏中体验到多少乐趣? - 无往的回答 - 知乎 https://www.zhihu.com/question/512985850/answer/2322673878](<http://原神不氪金能在游戏中体验到多少乐趣? - 无往的回答 - 知乎 https://www.zhihu.com/question/512985850/answer/2322673878>)
+- [原神不氪金能在游戏中体验到多少乐趣? - 无往的回答 - 知乎](https://www.zhihu.com/question/512985850/answer/2322673878)

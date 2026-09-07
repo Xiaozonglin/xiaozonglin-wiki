@@ -1,20 +1,13 @@
 ---
-id: 275
 title: 谈众裁官制度
 date: '2023-05-27T21:42:20+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=275'
-permalink: /the-jury-system/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /the-jury-system/
 categories:
     - 生活
 tags:
     - 众裁官
     - 杂谈
-format: false
 ---
 
 近些年来，哔哩哔哩、知乎、米游社等网络社区纷纷推出了众裁官或类似的社区制度。制度的大致内容是让一些长期遵守社区规则、通过考核的网民，也就是众裁官，对一些涉及不友善言论的举报案件进行评判，然后对其是否违规进行投票。

@@ -1,19 +1,12 @@
 ---
-id: 285
 title: 忙碌与收获
 date: '2023-08-18T22:41:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=285'
-permalink: /busy-and-harvest/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /busy-and-harvest/
 categories:
     - 生活
 tags:
     - 杂谈
-format: false
 ---
 
 不知不觉就到了2023年8月，岁月如梭，好像昨天才刚接触国家模拟社会学实验，今天同以往大不相同了。

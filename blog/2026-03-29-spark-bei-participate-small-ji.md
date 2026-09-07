@@ -2,11 +2,11 @@
 id: 1018
 title: 「进行中」星火杯参赛小记：XDWe——驱动教学相长的AI智能学习助手
 date: '2026-03-29T20:59:49+08:00'
-author: 林林
+authors: 林林
 excerpt: '跟同学参加了西电的星火杯，做了一个服务教学的 AI 应用。'
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=1018'
-permalink: /spark-bei-participate-small-ji/
+slug: /spark-bei-participate-small-ji/
 yoast-structured-data-blocks-images-cache:
     - 'a:0:{}'
 ppma_authors_name:

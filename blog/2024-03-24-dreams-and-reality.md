@@ -1,21 +1,14 @@
 ---
-id: 302
 title: 梦境与现实
 date: '2024-03-24T10:50:45+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=302'
-permalink: /dreams-and-reality/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /dreams-and-reality/
 categories:
     - 生活
 tags:
     - 杂谈
     - 现实
     - 随笔
-format: false
 ---
 
 今天又到了三月末，又有一个月没写博客了。生活类博客的文章实在没有写处，要想对生活有所记录，又能给读者带来点东西实在太难了。

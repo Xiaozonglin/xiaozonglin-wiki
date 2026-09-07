@@ -1,25 +1,14 @@
 ---
-id: 297
 title: 随笔几则
 date: '2023-11-18T21:22:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=297'
-permalink: /a-few-folds-of-essays/
-enclosure:
-    - "https://www.xiaozonglin.cn/usr/uploads/2023/11/1258380872.m4a\n4157193\naudio/mpeg\n"
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /a-few-folds-of-essays/
 categories:
     - 沉思
 tags:
     - 杂谈
     - 随笔
-format: false
 ---
-
-<figure class="wp-block-audio"><audio controls="" src="/usr/uploads/2023/11/1258380872.m4a"></audio></figure>音乐：I'm in paradise
 
 每周我们的语文老师会让我们写一篇随笔，或长或短，但都心有所得。现在已经半个学期了，在这里将这半个学期以来积累的随笔统一发一下。
 

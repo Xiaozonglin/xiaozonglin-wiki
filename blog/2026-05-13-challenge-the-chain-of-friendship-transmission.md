@@ -2,11 +2,11 @@
 id: 1390
 title: 试驳友谊之传递链
 date: '2026-05-13T07:24:19+08:00'
-author: 林林
+authors: 林林
 excerpt: 传递链找不来真朋友，圈子也不解放人。
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=1390'
-permalink: /challenge-the-chain-of-friendship-transmission/
+slug: /challenge-the-chain-of-friendship-transmission/
 categories:
     - 沉思
 tags:

@@ -2,11 +2,11 @@
 id: 1402
 title: '「进行中」XDSec SSO开发小记'
 date: '2026-05-17T11:22:57+08:00'
-author: 林林
+authors: 林林
 excerpt: ''
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=1402'
-permalink: /xdsec-sso-dev-notes/
+slug: /xdsec-sso-dev-notes/
 categories:
     - 开发
 tags:

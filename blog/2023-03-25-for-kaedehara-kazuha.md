@@ -1,23 +1,14 @@
 ---
-id: 262
 title: 你是风
 date: '2023-03-25T20:25:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=262'
-permalink: /for-kaedehara-kazuha/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /for-kaedehara-kazuha/
 categories:
     - 生活
 tags:
     - 原神
     - 杂谈
-format: false
 ---
-
-![枫原万叶](/usr/uploads/2023/03/3801029705.jpg "枫原万叶")
 
 **红叶从树随风飘落，故作枫。**
 

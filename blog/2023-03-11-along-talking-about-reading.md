@@ -1,21 +1,14 @@
 ---
-id: 260
 title: 也谈读书
 date: '2023-03-11T22:21:15+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=260'
-permalink: /along-talking-about-reading/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /along-talking-about-reading/
 categories:
     - 生活
 tags:
     - 学习
     - 杂谈
     - 阅读
-format: false
 ---
 
 **谨以此文，谈谈在语文课堂上讨论过的阅读的见解。**

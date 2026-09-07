@@ -2,11 +2,11 @@
 id: 1278
 title: 再见面板：记zhblogs运维
 date: '2026-04-28T23:30:37+08:00'
-author: 林林
+authors: 林林
 excerpt: ''
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=1278'
-permalink: /goodbye-server-panel-zhblogs/
+slug: /goodbye-server-panel-zhblogs/
 categories:
     - 技术与研究
 tags:

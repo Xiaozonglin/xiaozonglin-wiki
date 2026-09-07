@@ -1,20 +1,13 @@
 ---
-id: 282
 title: 谈求知
 date: '2023-07-23T17:40:23+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=282'
-permalink: /about-seeking-knowledge/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /about-seeking-knowledge/
 categories:
     - 生活
 tags:
     - 杂谈
     - 求知
-format: false
 ---
 
 初中老师在教我们议论文的时候就已经说了，切记不要拟类似“谈读书”“责任与快乐”的题目。“看看写这些文章的人都是些什么大咖。你们还没有到那种层次，拟不了这种题目。”咱今天也不算破例，也仅仅只是聊求知当中很小很小的一部分。每一个角度都应该会蜻蜓点水式地点一下，说好听点叫浅尝辄止，实际上想再多说点，也说不出什么了。（写完之后才发现，其实并没有什么求知的影子）

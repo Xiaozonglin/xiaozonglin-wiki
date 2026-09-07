@@ -1,20 +1,13 @@
 ---
-id: 294
 title: 尊重不同
 date: '2023-10-28T22:29:31+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=294'
-permalink: /show-respect-for-difference/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /show-respect-for-difference/
 categories:
     - 沉思
 tags:
     - 杂谈
     - 论说
-format: false
 ---
 
 “君子和而不同。”在不同的社会历史背景下，在不同的人生经历的基础上，我们每个人都有着不同的价值判断与价值选择。正如世界文化具有多元性一样，我们的价值取向也各有差异。尊重各自的不同，放下彼此的偏见，正是当下我们作为开放多元社会的成员所应具备的素质。

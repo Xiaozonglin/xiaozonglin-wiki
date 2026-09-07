@@ -1,21 +1,14 @@
 ---
-id: 38
 title: 2022年终总结
 date: '2022-11-05T16:07:28+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=38'
-permalink: /2022-ending-summary/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /2022-ending-summary/
 categories:
     - 生活
 tags:
     - '2022'
     - 杂谈
     - 自我
-format: false
 ---
 
 之前看到过别人写年终总结，有些人等到第二年的年中才写第一年的年终总结。现在就我来开创提前写年终总结的先例吧。

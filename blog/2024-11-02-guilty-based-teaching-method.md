@@ -1,21 +1,14 @@
 ---
-id: 316
 title: 愧疚式教学法
 date: '2024-11-02T22:29:11+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=316'
-permalink: /guilty-based-teaching-method/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /guilty-based-teaching-method/
 categories:
     - 生活
 tags:
     - 学习
     - 学校生活
     - 高中语文教育现状？
-format: false
 ---
 
 许久没有在这个博客上面发过文章，这个博客也从之前的一周一更到现在的两个月一更，我也渐渐觉得看我博客的人越来越少了，不错，在冷静处自开出一朵奇葩。

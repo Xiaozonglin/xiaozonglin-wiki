@@ -1,24 +1,13 @@
 ---
-id: 152
 title: 死亡与失败
 date: '2022-12-10T23:34:00+08:00'
-author: 林林
-excerpt: 失败能给我们带来更多的可能性，死亡也给我们带来了生的意义。
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=152'
-permalink: /failure-and-death/
-yoast-structured-data-blocks-images-cache:
-    - 'a:0:{}'
-enclosure:
-    - "https://www.xiaozonglin.cn/wp-content/uploads/2022/12/%E9%99%88%E8%87%B4%E9%80%B8-HOYO-MiX-Stealing-Words-of-the-Moon-%E6%9C%88%E4%BA%AE%E5%A4%84%E7%9B%97%E6%9D%A5%E7%9A%84%E6%AD%8C.mp3\n1530463\naudio/mpeg\n"
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /failure-and-death/
 categories:
     - 生活
 tags:
     - 杂谈
     - 自我
-format: false
 ---
 
 这篇文章已经改了几次。每当有遇到值得加到这篇文章，值得作为我对于死亡思考的内容，就会加到文章的前面。
@@ -29,7 +18,9 @@ format: false
 
 死亡是一个什么东西？我小时候认为人死了之后会“投胎”，到另外一个地方。这周读了《人生哲思录》，又有了新的思考。人是否来自于一个地方，死亡仅仅只是让人从这个世界回去了呢？“死亡不是同归大海，而是各回各的源头。
 
-<figure class="wp-block-audio"><audio controls="" src="/wp-content/uploads/2022/12/%E9%99%88%E8%87%B4%E9%80%B8-HOYO-MiX-Stealing-Words-of-the-Moon-%E6%9C%88%E4%BA%AE%E5%A4%84%E7%9B%97%E6%9D%A5%E7%9A%84%E6%AD%8C.mp3"></audio></figure>配合文章听《月亮处盗来的歌》
+<audio controls="" src="/wp-content/uploads/2022/12/%E9%99%88%E8%87%B4%E9%80%B8-HOYO-MiX-Stealing-Words-of-the-Moon-%E6%9C%88%E4%BA%AE%E5%A4%84%E7%9B%97%E6%9D%A5%E7%9A%84%E6%AD%8C.mp3"></audio>
+
+配合文章听《月亮处盗来的歌》
 
 今天这篇文章打算从个小故事说起：一个母亲告诉孩子，他已失去了的父亲变成了天上的星星，永远地照耀着他们。这个学期我们在心理课上面进行过一次活动，大家被随机分配到几张卡片，卡片上面写着一些词语，比如说“无措”、“充实”、“快乐”，老师告诉我们说：“假如这些词语代表着你的高中生活，那么你旳感受是什么？”她跟我们分享说，有一位同学抽到的是“死亡”。这个词语在我们班级里面当作笑话看待的，谁抽到谁倒霉。但是那位同学却不这么认为，他认为死亡代表着新生，旧的不去新的就不会来。心理老师说，当他分享完自己的观点的时候，大家都沉默了。
 

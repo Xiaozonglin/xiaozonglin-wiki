@@ -1,14 +1,8 @@
 ---
-id: 317
 title: 2024年年终总结
 date: '2024-11-15T19:57:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=317'
-permalink: /2024-year-end-summary/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /2024-year-end-summary/
 categories:
     - 日志
 tags:
@@ -17,7 +11,6 @@ tags:
     - 怀旧
     - 母亲
     - 记录
-format: false
 ---
 
 博友圈子里面每年都会有大把的人写年终总结，有记流水账似的把每个月发生的事情都写一遍的，也有挑年里几件大事出来细说的，有拖到第二年“年中”才写的，也有提前写的。我便算是提前写总结的那一茬人。  

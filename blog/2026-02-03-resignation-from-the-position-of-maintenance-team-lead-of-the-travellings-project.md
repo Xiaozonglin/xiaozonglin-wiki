@@ -2,11 +2,11 @@
 id: 692
 title: 关于辞去“开往友链接力”项目维护组负责人的辞呈
 date: '2026-02-03T15:59:00+08:00'
-author: 林林
+authors: 林林
 excerpt: 我对开往项目的未来充满信心，我相信项目将迎来更辉煌的篇章。
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=692'
-permalink: /resignation-from-the-position-of-maintenance-team-lead-of-the-travellings-project/
+slug: /resignation-from-the-position-of-maintenance-team-lead-of-the-travellings-project/
 ppma_authors_name:
     - 林林
 categories:

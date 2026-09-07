@@ -2,11 +2,11 @@
 id: 948
 title: 新年新气象：网站快一点，再快一点
 date: '2026-02-16T12:28:02+08:00'
-author: 林林
+authors: 林林
 excerpt: 新年新气象，进行了一次网站性能优化，这次没有依赖堆积如山的WordPress插件。
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=948'
-permalink: /be-faster-even-faster/
+slug: /be-faster-even-faster/
 ppma_authors_name:
     - 林林
 categories:

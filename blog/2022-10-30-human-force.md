@@ -1,14 +1,9 @@
 ---
-id: 22
 title: 人定胜天
 date: '2022-10-30T09:48:29+08:00'
-author: 林林
-excerpt: ''
-layout: post
+authors: 林林
 guid: 'https://www.xiaozonglin.cn/?p=22'
-permalink: /human-force/
-ppma_authors_name:
-    - 林林
+slug: /human-force/
 categories:
     - 生活
 tags:

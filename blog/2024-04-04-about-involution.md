@@ -1,20 +1,13 @@
 ---
-id: 303
 title: 浅谈内卷
 date: '2024-04-04T18:21:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=303'
-permalink: /about-involution/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /about-involution/
 categories:
     - 生活
 tags:
     - 内卷
     - 杂谈
-format: false
 ---
 
 看一些科普、网课视频时，会发现一些弹幕，“初一实名观看”“六年级到此一游”“初一看懂了“等等等等......自己的天资的确比他们差，他们的能力是真的强。但是，没有人关注他们有多优秀，有多超前。这种弹幕简直就是一种“视觉污染”。  

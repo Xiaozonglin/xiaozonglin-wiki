@@ -1,20 +1,13 @@
 ---
-id: 252
 title: 搜索引擎优化：是什么、怎么做
 date: '2023-02-12T09:54:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=252'
-permalink: /what-and-how-of-search-engine-optimization/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /what-and-how-of-search-engine-optimization/
 categories:
     - 技术与研究
 tags:
     - SEO
     - 搜索引擎
-format: false
 ---
 
 ## 前言

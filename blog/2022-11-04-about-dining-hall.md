@@ -1,19 +1,12 @@
 ---
-id: 25
 title: 谈食堂里的行为
 date: '2022-11-04T20:06:23+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=25'
-permalink: /about-dining-hall/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /about-dining-hall/
 categories:
     - 生活
 tags:
     - 杂谈
-format: false
 ---
 
 我们住宿生必须要在食堂里吃饭。食堂有三层，第三层我现在很少去，之前在第一层吃，现在变成在第二层吃了。为什么不在第一层吃呢？因为第一层没有“素质”。

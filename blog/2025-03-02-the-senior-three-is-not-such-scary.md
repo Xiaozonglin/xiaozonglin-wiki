@@ -1,26 +1,16 @@
 ---
-id: 320
 title: 高三也没有那么可怕
 date: '2025-03-02T11:35:19+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=320'
-permalink: /the-senior-three-is-not-such-scary/
-enclosure:
-    - "https://www.xiaozonglin.cn/usr/uploads/2025/03/2878747525.m4a\n1265398\naudio/mpeg\n"
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /the-senior-three-is-not-such-scary/
 categories:
     - 日志
 tags:
     - 记录
     - 高三
-format: false
 ---
 
-<figure class="wp-block-audio"><audio controls="" src="/usr/uploads/2025/03/2878747525.m4a"></audio></figure>建议配合音乐「Towards the Light」阅读  
- 今天距离高考还有不到100天的时间。
+今天距离高考还有不到100天的时间。
 
 初一的时候老师告诉我们：“不要把书都堆在桌子上，叠得那么高，你们又不是高三。”高三给我最初的印象，就是书在课桌上叠得老高老高，刷超级多超级多的试卷，承受超级大超级大的压力。这跟我在一些校园连续剧中看到的关于高三的渲染也差不多。高三，紧张，压迫，奋斗。是这样吗？
 

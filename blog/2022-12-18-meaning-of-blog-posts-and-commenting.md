@@ -1,22 +1,19 @@
 ---
-id: 167
 title: 博文与评论的意义
 date: '2022-12-18T00:12:22+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=167'
-permalink: /meaning-of-blog-posts-and-commenting/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /meaning-of-blog-posts-and-commenting/
 categories:
     - 生活
 tags:
     - 杂谈
-format: false
 ---
 
-<figure class="wp-block-audio"><audio controls="" src="/wp-content/uploads/2022/12/陈致逸-HOYO-MiX-Lingering-Blossom-永远的花火.mp3"></audio><figcaption class="wp-element-caption">《永远的花火》（现在已经是年底了）</figcaption></figure>作为一个空泛而又能够凑很多字数的话题，“写博客的意义”这个话题经常被我拿来写。我曾经在，国家哲学社会科学学术期刊全文数据库里搜索博客二字，博客这个东西在社会观念的转变上有着独特的意义，它在特定的年代使社会朝着更开放的方向发展。当然还有博客用来做教育教学的，我目前是还没有遇到过用博客来教学，那篇论文听上去挺好的，但又有谁在自己的教育当中付诸实践呢？
+<audio controls="" src="/wp-content/uploads/2022/12/陈致逸-HOYO-MiX-Lingering-Blossom-永远的花火.mp3"></audio>
+
+《永远的花火》（现在已经是年底了）
+
+作为一个空泛而又能够凑很多字数的话题，“写博客的意义”这个话题经常被我拿来写。我曾经在，国家哲学社会科学学术期刊全文数据库里搜索博客二字，博客这个东西在社会观念的转变上有着独特的意义，它在特定的年代使社会朝着更开放的方向发展。当然还有博客用来做教育教学的，我目前是还没有遇到过用博客来教学，那篇论文听上去挺好的，但又有谁在自己的教育当中付诸实践呢？
 
 博客，目前来说就是发表有点自己的东西，有的时候发点自己拍的照片，自己写的文字。哪怕那些文字都毫无逻辑，也可以发上来。对于生活博客而言，如果事情记载的只是自己生活中杂碎的事情，那么那篇文章的评论大概也是跟着文章一起发牢骚。
 

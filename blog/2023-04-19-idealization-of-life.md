@@ -1,19 +1,12 @@
 ---
-id: 266
 title: 生活的理想化
 date: '2023-04-19T21:07:48+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=266'
-permalink: /idealization-of-life/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /idealization-of-life/
 categories:
     - 生活
 tags:
     - 自我
-format: false
 ---
 
 一天晚上去食堂吃饭的时候，因为我们吃饭的时候要刷餐卡，会提前把自己的餐卡拿出来，所以我能无意中看到别人的卡贴和卡套。排我前面的人卡套上印着枫原万叶的立绘，过一会拿着面的同学把贴着魈的餐卡收起来（那两位同学都是男的），再接着就是一位女生把掉在地上的贴着天气之子卡贴的餐卡捡起来。

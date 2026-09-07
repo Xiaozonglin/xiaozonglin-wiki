@@ -2,11 +2,11 @@
 id: 1461
 title: 高考之后（贰）
 date: '2026-06-15T16:44:41+08:00'
-author: 林林
+authors: 林林
 excerpt: ''
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=1461'
-permalink: /after-gaokao-secondary/
+slug: /after-gaokao-secondary/
 categories:
     - 生活
 tags:

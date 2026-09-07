@@ -1,19 +1,12 @@
 ---
-id: 381
 title: Python真香：尝试开发数据爬取与后端接口
 date: '2025-09-03T22:53:09+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=381'
-permalink: /python-is-so-convient/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /python-is-so-convient/
 categories:
     - 开发
 tags:
     - 编程
-format: false
 ---
 
 高考结束，回到开往项目组。大学录取了计算机方向的专业，之前做项目的经历告诉我开发这件事情不能靠别人，自己不太好意思再给别人提需求了，也对同龄人已经熟练使用 Node.js 感到焦虑，所以这几个月自己尝试打开电脑为项目写点东西。

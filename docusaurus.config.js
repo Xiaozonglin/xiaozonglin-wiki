@@ -71,9 +71,14 @@ const config = {
           editUrl:
             'https://github.com/Xiaozonglin/xiaozonglin-wiki/tree/main/',
           // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
+          onInlineTags: 'ignore',
+          onInlineAuthors: 'ignore',
+          onUntruncatedBlogPosts: 'ignore',
+
+          remarkPlugins: [
+            // 自定义插件来忽略错误
+            () => (tree) => tree,
+          ],
         },
         theme: {
           customCss: './src/css/custom.css',

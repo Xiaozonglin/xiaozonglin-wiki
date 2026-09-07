@@ -2,11 +2,11 @@
 id: 983
 title: 都市天际线2：通过优化设计路网解决拥堵
 date: '2026-02-26T18:17:05+08:00'
-author: 林林
+authors: 林林
 excerpt: 摒弃简单的道路拓宽方法，通过采用“高速公路-主干道-次干道-小区网格”的分级路网设计，并结合地铁系统和公交环线，有效提升交通流畅度。
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=983'
-permalink: /solves-congestion-by-optimizing-road-network-design/
+slug: /solves-congestion-by-optimizing-road-network-design/
 ppma_authors_name:
     - 林林
 categories:

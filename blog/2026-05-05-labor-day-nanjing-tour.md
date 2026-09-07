@@ -2,11 +2,11 @@
 id: 1306
 title: 五一假期：南京之行
 date: '2026-05-05T08:28:13+08:00'
-author: 林林
+authors: 林林
 excerpt: 游玩南京，拍了一些照片。
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=1306'
-permalink: /labor-day-nanjing-tour/
+slug: /labor-day-nanjing-tour/
 categories:
     - 生活
 tags:

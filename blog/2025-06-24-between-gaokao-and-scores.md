@@ -1,17 +1,12 @@
 ---
-id: 331
 title: 高考之后，出分之前（已经录取版）
 date: '2025-06-24T09:20:00+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=331'
-permalink: /between-gaokao-and-scores/
+authors: 林林
+slug: /between-gaokao-and-scores/
 ppma_authors_name:
     - 林林
 categories:
     - 日志
-format: false
 ---
 
 618买了一个笔记本，现在对着笔记本的屏幕写这篇博文。今天中午，我就可以在省考试院上查到自己的高考成绩。  

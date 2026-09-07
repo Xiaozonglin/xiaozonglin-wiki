@@ -1,19 +1,12 @@
 ---
-id: 268
 title: 生命是棵可爱的小树
 date: '2023-05-07T07:49:16+08:00'
-author: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=268'
-permalink: /life-is-a-lovely-little-tree/
-ppma_authors_name:
-    - 林林
+authors: 林林
+slug: /life-is-a-lovely-little-tree/
 categories:
     - 生活
 tags:
     - 故事
-format: false
 ---
 
 我们似乎老早就厌倦了从生命长河上看待生命，感叹生命的苦短，那些话早就成陈词滥调了。我们可以把生命看小一些，小到一棵可爱的小树。

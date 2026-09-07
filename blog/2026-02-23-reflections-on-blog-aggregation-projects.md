@@ -2,11 +2,11 @@
 id: 972
 title: 博客聚合有感
 date: '2026-02-23T22:28:29+08:00'
-author: 林林
+authors: 林林
 excerpt: 对我来说，我平时逛逛开往，给博客发一点评论，欣赏欣赏别人的文章，这是开往于我的意义。
 layout: post
 guid: 'https://www.xiaozonglin.cn/?p=972'
-permalink: /reflections-on-blog-aggregation-projects/
+slug: /reflections-on-blog-aggregation-projects/
 footnotes:
     - '[{"content":"「你项」是我当时说的玩笑话，如今看来并不合适","id":"c000bc7d-61fc-426c-bb0f-29cf0a677def"}]'
 ppma_authors_name:
