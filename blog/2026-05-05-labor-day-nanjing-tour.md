@@ -1,0 +1,43 @@
+---
+id: 1306
+title: 五一假期：南京之行
+date: '2026-05-05T08:28:13+08:00'
+author: 林林
+excerpt: 游玩南京，拍了一些照片。
+layout: post
+guid: 'https://www.xiaozonglin.cn/?p=1306'
+permalink: /labor-day-nanjing-tour/
+categories:
+    - 生活
+tags:
+    - 南京
+    - 旅行
+format: false
+---
+
+去年国庆节没出去玩，清明假期短，五一刚刚好。原本想着回一趟家，毕竟在学校待了两个月了，但没约到火车票。不回去了，改成旅游。去北京，但北京的朋友说那边挤，不推荐去。去成都吧，成都的同学不愿意出门。去长沙吧，没有什么时间点不错的车票。南京算是一个还行的选择。
+
+临行前几天，我的母亲又告诉我机票价格降下来了，要不要回家，或者就近去山西太原看看也行，太原啊晋城啊也有好看的，但南京的计划已定，变更起来就麻烦多了。
+
+西安北到南京南，从早上九点到下午三点，中午叫了一份郑州东的外卖，跨过长江。坐高铁的经历对我来说还算新奇，也是头两回坐G开头的车。
+
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260502_0911501-768x1024.jpg)<figcaption class="wp-element-caption">西安北到南京南</figcaption></figure></div><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260502_152745-768x1024.jpg)<figcaption class="wp-element-caption">到达南京南</figcaption></figure></div></div>侵华日军南京遇难同胞纪念馆的票难约，尤其难约。它不像中山陵那样一下就告诉我票没了，它每天放两次票，一直放到参观前一天，我就这么掐着时间点抢着约，今天八点没约到下午五点再战。准点进去提交总是显示人太多了，接着是做滑块和算术题，做完之后接着做，直到这个时间段的票约完为止，也就知道自己白做题了。后面从抖音上看到这种抢票需要慢慢悠悠去预约，刚好避开刚开始的高峰期，就约成了。但我照着这个教程预约，还没出验证码呢，就告诉我没了。一鼓作气，再而衰，三而竭。到后面，我连那个预约小程序都不想打开了，约也是约不上的。南京大屠杀史实陈列的那个展览没约上，但三个必胜的展览倒是一开始就约成了。我将这个作为我到南京的第一站。南京的展览很多，而这算是我整个旅途中看得最认真的展览了。
+
+<div class="wp-block-columns are-vertically-aligned-center"><div class="wp-block-column is-vertically-aligned-center"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260502_162807-768x1024.jpg)<figcaption class="wp-element-caption">当天下午下起了雨</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260502_163227-768x1024.jpg)<figcaption class="wp-element-caption">一个时间长廊，标记着各年的事件</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260502_164117-1024x768.jpg)<figcaption class="wp-element-caption">群像雕塑</figcaption></figure></div><div class="wp-block-column is-vertically-aligned-center"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260502_162927-768x1024.jpg)<figcaption class="wp-element-caption">步入展厅之前是这样空旷的空间，有灯光在刺眼地闪，非常安静</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260502_164734-768x1024.jpg)<figcaption class="wp-element-caption">一些海报</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260502_165359-768x1024.jpg)<figcaption class="wp-element-caption">我们胜利了</figcaption></figure></div></div>参观完展览后，坐地铁到一家餐馆与高中同学晚餐。然后逛了逛德基广场，参观了一下豪华厕所。
+
+<figure class="wp-block-image aligncenter size-large is-resized">![](/wp-content/uploads/2026/05/IMG_20260502_174835-768x1024.jpg)<figcaption class="wp-element-caption">雨中的新街口</figcaption></figure>晚上九点多回到民宿，玩会方舟，然后睡觉。第二天起来，附近找了一家店吃了个鸡蛋汉堡，然后坐地铁到钟山风景区，看看明孝陵，然后到梧桐大道看看，发现全是人。
+
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_080533-768x1024.jpg)<figcaption class="wp-element-caption">南京小巷</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_084402-768x1024.jpg)<figcaption class="wp-element-caption">风景有点像市民公园</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_100723-768x1024.jpg)<figcaption class="wp-element-caption">梧桐大道</figcaption></figure></div><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_085632-768x1024.jpg)<figcaption class="wp-element-caption">神马</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_091730-768x1024.jpg)<figcaption class="wp-element-caption">孝陵</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_092044-768x1024.jpg)<figcaption class="wp-element-caption">从明孝陵往下看</figcaption></figure></div></div>到一个地方，参观参观同学的大学估计成了我们的一个传统……在[Norcleeh](https://nocp.space/)的帮助下，我得以进入南邮参观参观。南邮的仙林校区感觉跟西电一样远离主城区，但因为南邮旁边还有其他几所大学所以附近有些广场和商铺，而西电就没有这样的待遇了。南邮一进去就是两侧栽着梧桐的大道，也算是一个梧桐大道了。高中同学告诉我，南邮又叫南京自行车大学，大道上面不是停满了车，就是骑满了车。
+
+<div class="wp-block-columns are-vertically-aligned-center"><div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_113017-768x1024.jpg)<figcaption class="wp-element-caption">梧桐大道</figcaption></figure></div><div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_110553-1024x768.jpg)<figcaption class="wp-element-caption">南邮校门</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_122421-1024x768.jpg)<figcaption class="wp-element-caption">图书馆门前的一篇草地</figcaption></figure></div></div>参观完南邮之后打了个车回民宿休息，一觉起来就是下午三点半，睡前头晕想吐，估计是中暑了，睡完之后好一些，洗一把脸起来逛一逛瞻园。晚上又到夫子庙看看，所谓不挤一次不算来南京，但感觉没什么好看的，没留什么照片。
+
+<div class="wp-block-columns are-vertically-aligned-top"><div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_162726-768x1024.jpg)<figcaption class="wp-element-caption">南京夫子庙</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_165010-768x1024.jpg)<figcaption class="wp-element-caption">园林</figcaption></figure></div><div class="wp-block-column is-vertically-aligned-top" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_164346-768x1024.jpg)<figcaption class="wp-element-caption">讲解</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_170600-1024x768.jpg)<figcaption class="wp-element-caption">园林</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260503_173648-768x1024.jpg)<figcaption class="wp-element-caption">秦淮河上</figcaption></figure></div></div>次日早上参观总统府。
+
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260504_095545-768x1024.jpg)<figcaption class="wp-element-caption">临时国民政府</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260504_100740-1024x768.jpg)<figcaption class="wp-element-caption">总统府礼堂</figcaption></figure></div><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260504_100455-768x1024.jpg)<figcaption class="wp-element-caption">天下为公</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260504_095925-1024x768.jpg)<figcaption class="wp-element-caption">只要不背叛人民就一定有出路</figcaption></figure></div></div>参观完总统府之后在南京的路上走走，不知不觉就走到浮桥的地铁站了。想着时间也不早了，附近找了一家兰州拉面吃炒刀削，就坐地铁到南京南站。从下午两点到晚上八点，又坐了六个小时的高铁。趴在小桌板上睡了一会，靠在座椅上又睡了几次。
+
+<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260504_114818-1024x768.jpg)<figcaption class="wp-element-caption">浮桥地铁站</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260504_140554-576x1024.jpg)<figcaption class="wp-element-caption">过长江</figcaption></figure></div><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260504_123529-1024x768.jpg)<figcaption class="wp-element-caption">从南京南向外看</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/05/IMG_20260504_200120-768x1024.jpg)<figcaption class="wp-element-caption">到西安</figcaption></figure></div></div>> 钟山风雨起苍黄，百万雄师过大江。  
+> 虎踞龙盘今胜昔，天翻地覆慨而慷。  
+> 宜将剩勇追穷寇，不可沽名学霸王。  
+> 天若有情天亦老，人间正道是沧桑。
+> 
+> <cite>毛泽东《七律·人民解放军占领南京》</cite>
