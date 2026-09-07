@@ -50,12 +50,12 @@ format: false
 
 <figure class="wp-block-table alignwide is-style-stripes">| 序号 | 博客名称 | URL | 总耗时(s) | TTFB(s) | LCP(ms) | DOM加载(ms) |
 |---|---|---|---|---|---|---|
-| 1 | TomyJan 的博客 | https://blog.tomys.top | ***29.044*** | 0.040 | 19951 | 2232 |
-| 2 | 不淡定的实验室 | https://xd.sh.cn | ***27.441*** | 0.366 | 18673 | 2303 |
-| 15 | 御坂の地下室 | https://misakamoe.com | 9.494 | ***2.110*** | 4320 | 4876 |
-| 18 | 花开陌上 | https://moshanghua.net | 9.160 | ***1.590*** | 4050 | 4108 |
-| 35 | 夏日鱼塘 | https://www.summerpond.cn | 6.176 | 0.089 | 1676 | 1550 |
-| 36 | MBRjun-Blog | https://www.libmbr.com | 5.879 | 0.044 | 1257 | 1313 |
+| 1 | TomyJan 的博客 |[https://blog.tomys.top](https://blog.tomys.top) | ***29.044*** | 0.040 | 19951 | 2232 |
+| 2 | 不淡定的实验室 |[https://xd.sh.cn](https://xd.sh.cn) | ***27.441*** | 0.366 | 18673 | 2303 |
+| 15 | 御坂の地下室 |[https://misakamoe.com](https://misakamoe.com) | 9.494 | ***2.110*** | 4320 | 4876 |
+| 18 | 花开陌上 |[https://moshanghua.net](https://moshanghua.net) | 9.160 | ***1.590*** | 4050 | 4108 |
+| 35 | 夏日鱼塘 |[https://www.summerpond.cn](https://www.summerpond.cn) | 6.176 | 0.089 | 1676 | 1550 |
+| 36 | MBRjun-Blog |[https://www.libmbr.com](https://www.libmbr.com) | 5.879 | 0.044 | 1257 | 1313 |
 
 <figcaption class="wp-element-caption">表一 36 个博客的访问耗时、TTFB、LCP 和 DOM 加载耗时</figcaption></figure>上表中的第 1 个博客虽然测出来的总耗时较长，但是实际访问似乎在 1500ms 前就将主体内容（网站名称、简介、背景图片）加载出来了，后面不知道在加载什么东西。自动播放音乐 + 弹窗广告 + 切换标签页改标题 + 看板娘，后面可以用这个网站做测试（也是 buff 叠满了）。第 2 个网站也是，前 1500ms 就把文章列表这些内容加载好了，后面请求 gravatar 头像的时候拖了 14 秒……感觉是这些没用的资源把 LCP 抬高到原本不属于它的高度。虽然无语，但是这两个例子说明页面加载的总耗时没办法代表我们访问博客时的实际体验。TTFB 能稍微体现访问网站刚开始空白加载的时间，但代表性不大。DOM 加载时间的差别我访问时是感受不到的。
 
@@ -67,13 +67,13 @@ format: false
 
 <figure class="wp-block-table alignwide is-style-stripes">| 排名 | 博客名称 | URL | Speed Index(ms) | TTI(ms) |
 |---|---|---|---|---|
-| 1 | Foxhole | https://blog.southfox.me | 15903 | 10541 |
-| 2 | 异国迷宫的十字路口 | https://blog.fivezha.cn | 14955 | 3264 |
-| 3 | ADD-SP‘s Blog | https://www.addesp.com | 14402 | 11609 |
-| 56 | 杜老师说 | https://dusays.com | 2137 | 1519 |
-| 57 | 夏日鱼塘 | https://www.summerpond.cn | 1731 | 1591 |
-| 58 | MBRjun-Blog | https://www.libmbr.com | 1429 | 1317 |
-| 59 | Declan's Blog | https://blog.haojin.li | 1092 | 1092 |
+| 1 | Foxhole |[https://blog.southfox.me](https://blog.southfox.me) | 15903 | 10541 |
+| 2 | 异国迷宫的十字路口 |[https://blog.fivezha.cn](https://blog.fivezha.cn) | 14955 | 3264 |
+| 3 | ADD-SP‘s Blog |[https://www.addesp.com](https://www.addesp.com) | 14402 | 11609 |
+| 56 | 杜老师说 |[https://dusays.com](https://dusays.com) | 2137 | 1519 |
+| 57 | 夏日鱼塘 |[https://www.summerpond.cn](https://www.summerpond.cn) | 1731 | 1591 |
+| 58 | MBRjun-Blog |[https://www.libmbr.com](https://www.libmbr.com) | 1429 | 1317 |
+| 59 | Declan's Blog |[https://blog.haojin.li](https://blog.haojin.li) | 1092 | 1092 |
 
 <figcaption class="wp-element-caption">表二 部分博客的 Speed Index 和 TTI</figcaption></figure>不得不说，这两个指标还真「有点东西」。Speed Index 高的博客相比于 Speed Index 低的博客页面加载感觉会慢一点。TTI 在一些 Speed Index 比较高的博客反而比较低，例如表一的第 1 个博客，Speed Index 为 13580ms，而 TTI 却为 2144ms，有一些资源加载很慢，但页面主体加载比较快，访客访问很快就可以与页面交互了。因此，TTI 比 Speed Index 更能够描述页面主体的加载速度。
 
@@ -89,42 +89,42 @@ format: false
 
 <figure class="wp-block-table alignwide is-style-stripes">| 排名 | 博客名称 | URL | Factor |
 |---|---|---|---|
-| 1 | MBRjun-Blog | https://www.libmbr.com | 69.84 |
-| 2 | ncc 的个人网站 | https://www.zqcnc.cn | 69.49 |
-| 3 | 杜老师说 | https://dusays.com | 67.77 |
-| 4 | 夏日鱼塘 | https://www.summerpond.cn | 67.76 |
-| 5 | SkYe's Blog | https://www.mrskye.cn | 64.98 |
-| 23 | F 君的博客 | https://blog.fkun.tech | 50.95 |
-| 24 | 静静的小窝 | https://wznmickey.com | 49.95 |
-| 25 | HandSonic‘s Blog | https://handsonic.top | 47.67 |
-| 26 | 提莫酱的博客 | https://www.timochan.cn | 46.75 |
-| 27 | 人家故里 | https://fx7.top | 46.45 |
+| 1 | MBRjun-Blog |[https://www.libmbr.com](https://www.libmbr.com) | 69.84 |
+| 2 | ncc 的个人网站 |[https://www.zqcnc.cn](https://www.zqcnc.cn) | 69.49 |
+| 3 | 杜老师说 |[https://dusays.com](https://dusays.com) | 67.77 |
+| 4 | 夏日鱼塘 |[https://www.summerpond.cn](https://www.summerpond.cn) | 67.76 |
+| 5 | SkYe's Blog |[https://www.mrskye.cn](https://www.mrskye.cn) | 64.98 |
+| 23 | F 君的博客 |[https://blog.fkun.tech](https://blog.fkun.tech) | 50.95 |
+| 24 | 静静的小窝 |[https://wznmickey.com](https://wznmickey.com) | 49.95 |
+| 25 | HandSonic‘s Blog |[https://handsonic.top](https://handsonic.top) | 47.67 |
+| 26 | 提莫酱的博客 |[https://www.timochan.cn](https://www.timochan.cn) | 46.75 |
+| 27 | 人家故里 |[https://fx7.top](https://fx7.top) | 46.45 |
 
 <figcaption class="wp-element-caption">表三 Factor解析式方案一实测数据</figcaption></figure>原本还有另外一个解析式来增大不同博客 Factor 的区分度，但是测了一遍「属实」是太有区分度了，没用这个。既然做了，公式和数据贴在这里。
 
 <div class="wp-block-math"><math display="block"><semantics><mrow><mtext>Factor</mtext><mo>=</mo><mrow><mi>max</mi><mo>⁡</mo></mrow><mrow><mo fence="true" form="prefix">(</mo><mn>0</mn><mo separator="true">,</mo><mn>100</mn><mo>−</mo><msup><mrow><mo fence="true" form="prefix">(</mo><mfrac><mtext>TTI</mtext><mn>50</mn></mfrac><mo>+</mo><mfrac><mtext>Speed Index</mtext><mn>100</mn></mfrac><mo>+</mo><mtext>TTFB</mtext><mo>×</mo><mn>200</mn><mo fence="true" form="postfix">)</mo></mrow><mn>0.7</mn></msup><mo fence="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\\text{Factor} = \\max\\left(0, 100 - \\left(\\frac{\\text{TTI}}{50} + \\frac{\\text{Speed Index}}{100} + \\text{TTFB} \\times 200\\right)^{0.7}\\right)</annotation></semantics></math></div><figure class="wp-block-table alignwide is-style-stripes">| 排名 | 博客名称 | URL | Factor |
 |---|---|---|---|
-| 1 | f2h2h1's blog | https://f2h2h1.github.io | 89.97 |
-| 2 | 飞刀博客 | https://www.feidaoboke.com | 86.93 |
-| 3 | 爱吃肉的猫 | https://meuicat.com | 85.81 |
-| 4 | 晓雨杂记 | https://www.lihaoyu.cn | 85.78 |
-| 5 | MBRjun-Blog | https://www.libmbr.com | 85.72 |
-| 100 | BOB'S BLOG | https://www.itbob.cn | 76.54 |
-| 101 | Revincx 的小破站 | https://blog.revincx.icu | 76.31 |
-| 102 | a.d博客 | https://blog.aiheadn.cn/ | 76.16 |
-| 103 | 刘郎阁 | https://vjo.cc | 76.12 |
-| 104 | 树洞笔记 | https://www.x8xx.cn | 76.05 |
-| 105 | 无用笔记 | https://www.xhily.com/ | 76.00 |
-| 251 | 希望的博客 | https://www.xiwangly.com | 56.69 |
-| 252 | 空鸣深语 | https://blog.deepchirp.com | 56.56 |
-| 253 | 陌子夕生活记 | https://mozixi.com | 56.28 |
-| 254 | 异国迷宫的十字路口 | https://blog.fivezha.cn | 55.99 |
-| 255 | 夜庭記 | https://musenxi.com | 55.95 |
-| 304 | F 君的博客 | https://blog.fkun.tech | 30.51 |
-| 305 | 阿云的宝库 | https://www.yunxge.cn | 28.91 |
-| 306 | imba久期的博客 | https://imba97.com | 28.76 |
-| 307 | Sakitami 的集装箱 | https://blog.skihome.xyz | 19.38 |
-| 308 | 海蓝岛 | https://hailandao.com/ | 9.80 |
+| 1 | f2h2h1's blog |[https://f2h2h1.github.io](https://f2h2h1.github.io) | 89.97 |
+| 2 | 飞刀博客 |[https://www.feidaoboke.com](https://www.feidaoboke.com) | 86.93 |
+| 3 | 爱吃肉的猫 |[https://meuicat.com](https://meuicat.com) | 85.81 |
+| 4 | 晓雨杂记 |[https://www.lihaoyu.cn](https://www.lihaoyu.cn) | 85.78 |
+| 5 | MBRjun-Blog |[https://www.libmbr.com](https://www.libmbr.com) | 85.72 |
+| 100 | BOB'S BLOG |[https://www.itbob.cn](https://www.itbob.cn) | 76.54 |
+| 101 | Revincx 的小破站 |[https://blog.revincx.icu](https://blog.revincx.icu) | 76.31 |
+| 102 | a.d博客 |[https://blog.aiheadn.cn/](https://blog.aiheadn.cn/) | 76.16 |
+| 103 | 刘郎阁 |[https://vjo.cc](https://vjo.cc) | 76.12 |
+| 104 | 树洞笔记 |[https://www.x8xx.cn](https://www.x8xx.cn) | 76.05 |
+| 105 | 无用笔记 |[https://www.xhily.com/](https://www.xhily.com/) | 76.00 |
+| 251 | 希望的博客 |[https://www.xiwangly.com](https://www.xiwangly.com) | 56.69 |
+| 252 | 空鸣深语 |[https://blog.deepchirp.com](https://blog.deepchirp.com) | 56.56 |
+| 253 | 陌子夕生活记 |[https://mozixi.com](https://mozixi.com) | 56.28 |
+| 254 | 异国迷宫的十字路口 |[https://blog.fivezha.cn](https://blog.fivezha.cn) | 55.99 |
+| 255 | 夜庭記 |[https://musenxi.com](https://musenxi.com) | 55.95 |
+| 304 | F 君的博客 |[https://blog.fkun.tech](https://blog.fkun.tech) | 30.51 |
+| 305 | 阿云的宝库 |[https://www.yunxge.cn](https://www.yunxge.cn) | 28.91 |
+| 306 | imba久期的博客 |[https://imba97.com](https://imba97.com) | 28.76 |
+| 307 | Sakitami 的集装箱 |[https://blog.skihome.xyz](https://blog.skihome.xyz) | 19.38 |
+| 308 | 海蓝岛 |[https://hailandao.com/](https://hailandao.com/) | 9.80 |
 
 <figcaption class="wp-element-caption">表四 Factor解析式方案二实测数据</figcaption></figure>### 2.2 不必要的特效和设计
 

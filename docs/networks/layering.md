@@ -48,7 +48,7 @@ UDP不提供任何传递的保证。
 > UDP发送方：哎呀，终于睡醒了，干会活吧，开始发喽……   
 > UDP接收方：我还没准备好呢，等等我，慢点，慢点……   
 > 于是，发送方、接收方都各自为政，互不干涉，发送方不关心接收方是否接收完整，接收方也无从判断发送方是否开始发了。   
-> ref: https://zhuanlan.zhihu.com/p/273218681
+> ref:[https://zhuanlan.zhihu.com/p/273218681](https://zhuanlan.zhihu.com/p/273218681)
 
 ## 应用层Application Layer
 
