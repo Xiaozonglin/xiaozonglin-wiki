@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '林林的笔记维基',
+  title: '林林杂语',
   tagline: 'linlinzzo is studying',
   favicon: 'img/favicon.jpg',
 
@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://wiki.travellings.cn',
+  url: 'https://www.xiaozonglin.cn',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -61,12 +61,17 @@ const config = {
             'https://github.com/Xiaozonglin/xiaozonglin-wiki/tree/main/',
         },
         blog: {
-          postsPerPage: 'ALL',
+          blogTitle: '林林杂语',
+          postsPerPage: 5,
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
           },
+
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: '以往文章',
+
           // Useful options to enforce blogging best practices
           onInlineTags: 'ignore',
           onInlineAuthors: 'ignore',
@@ -93,7 +98,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: '林林的维基',
+        title: '林林杂语',
         logo: {
           alt: 'My Site Logo',
           src: 'img/favicon.jpg',
@@ -104,6 +109,11 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: '维基文档',
+          },
+          {
+            to: 'blog', 
+            label: '博客',
+            position: 'left'
           },
           {
             href: 'https://github.com/Xiaozonglin',
@@ -118,10 +128,6 @@ const config = {
           {
             title: '相关链接',
             items: [
-              {
-                label: '博客网站',
-                to: 'https://www.xiaozonglin.cn',
-              },
               {
                 label: '关于林林',
                 to: 'https://www.xiaozonglin.cn/about-me/',
@@ -146,12 +152,12 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 林林. Built with Docusaurus.`,
+        copyright: `Copyright © 2022 - ${new Date().getFullYear()} 林林. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
-        additionalLanguages: ['powershell', 'python', 'php', 'rust', 'go'],
+        additionalLanguages: ['powershell', 'python', 'php', 'rust', 'go', 'bash', 'sql'],
       },
       algolia: {
         appId: 'H59IYZ9TP3',

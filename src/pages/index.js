@@ -21,6 +21,11 @@ function HomepageHeader() {
             to="/docs/intro">
             笔记维基 📄
           </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/intro">
+            博客 ✍
+          </Link>
         </div>
       </div>
     </header>
