@@ -30,7 +30,7 @@ const config = {
   organizationName: 'Xiaozonglin', // Usually your GitHub org/user name.
   projectName: 'xiaozonglin-wiki', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   markdown: {
     hooks: {
