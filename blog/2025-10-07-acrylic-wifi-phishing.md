@@ -41,9 +41,9 @@ Linux 这条路给了我很大的折磨，我跟 Deepseek 说：
 
 <figure class="wp-block-image aligncenter size-full">![](/wp-content/uploads/2025/10/图片.png)<figcaption class="wp-element-caption">192.168.137.1为移动热点默认的网关IP</figcaption></figure>然后在 Acrylic 的 hosts 文件中添加这样一条，将所有的域名都解析到自己的电脑，如图：
 
-<figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2025/10/图片-1-1024x761.png)</figure>最后，运行 Python Flask 代码，就可以了。
+<figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2025/10/图片-1.png)</figure>最后，运行 Python Flask 代码，就可以了。
 
-<figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2025/10/图片-2-1024x413.png)</figure>## 更进一步
+<figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2025/10/图片-2.png)</figure>## 更进一步
 
 关于 Acrylic 的尝试并不是一次就成功的，也是失败到让我怀疑人生。就在我怀疑人生的时候，我突然想到：能不能把热点这个身份“外包”出去呢？买一个路由器，让电脑通过网线连接路由器，并在路由器设置中将 DNS 服务器指向电脑，从而一劳永逸地解决网络发射问题，还可以增强网络的发射功率，使其更好与校园网的正版 WiFi 竞争。某宝物流显示路由器明天到货，到货了会用路由器再做一次尝试。
 

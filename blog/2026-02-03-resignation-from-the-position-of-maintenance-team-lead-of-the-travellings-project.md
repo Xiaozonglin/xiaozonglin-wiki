@@ -32,6 +32,6 @@ slug: /resignation-from-the-position-of-maintenance-team-lead-of-the-travellings
 
 林林
 
-![](/wp-content/uploads/2026/02/43c4fb69586e6abd97290d23764cb7a4-724x1024.jpg)
+![](/wp-content/uploads/2026/02/43c4fb69586e6abd97290d23764cb7a4.jpg)
 
-![](/wp-content/uploads/2026/02/d689045b2c3837e0d08b16c5ad7df0ab-724x1024.jpg)
+![](/wp-content/uploads/2026/02/d689045b2c3837e0d08b16c5ad7df0ab.jpg)

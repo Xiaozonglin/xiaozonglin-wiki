@@ -15,7 +15,7 @@ slug: /goodbye-server-panel-zhblogs/
 
 沐云vibe了一个维护页面，先是部署在我的服务器上，配置CDN那边花了一点时间，然后发现因为项目域名没有在阿里云接入备案所以被拦截了，于是沐云改用EdgeOne部署维护页面。在他用EdgeOne的时候，我收到了来自EdgeOne的邮件和短信，里面说EdgeOne支持部署Python Flask和Go的进行时了，沐云也为EdgeOne的升级感到惊喜，如果真是这样的话就连后端都不用部署在服务器上了。（ToDo++：重写一下自己的博客，并部署到EdgeOne上）
 
-![](/wp-content/uploads/2026/04/image-4-1024x610.png)
+![](/wp-content/uploads/2026/04/image-4.png)
 
 接着是登录服务器，这个费老大劲了。我先是用ssh-keygen生成密钥对，然后把公钥上传到腾讯云的密钥管理里面，绑定lighthouse，但怎么登都登不进去。后面用腾讯云生成的密钥对，绑定，也是怎么登都登不进去。沐云来远程也找不到哪里出了问题，后面只能曲线救国：用他的私钥登上去。等我登上去发现腾讯云压根没把我的公钥加到`~/.ssh/authorized_keys`，我手动加上去之后就可以用自己的私钥登录了。
 
@@ -41,7 +41,7 @@ slug: /goodbye-server-panel-zhblogs/
 
 于是，如果linlinzzo用户要使用root用户的权限执行命令，就需要先`sudo -u zhblogs`，再`sudo`。
 
-![](/wp-content/uploads/2026/04/image-6-1024x137.png)
+![](/wp-content/uploads/2026/04/image-6.png)
 
 提权之路
 

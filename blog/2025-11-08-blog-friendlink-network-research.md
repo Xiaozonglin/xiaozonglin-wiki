@@ -69,11 +69,11 @@ slug: /blog-friendlink-network-research/
 
 ## 三、研究结果
 
-![](/wp-content/uploads/2025/11/Figure_1-1024x410.png)
+![](/wp-content/uploads/2025/11/Figure_1.png)
 
-![](/wp-content/uploads/2025/11/Figure_2-1024x577.png)
+![](/wp-content/uploads/2025/11/Figure_2.png)
 
-![](/wp-content/uploads/2025/11/Figure_3-1024x577.png)
+![](/wp-content/uploads/2025/11/Figure_3.png)
 
 由上图，我们可以看到：
 

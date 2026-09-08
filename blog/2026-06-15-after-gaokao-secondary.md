@@ -5,7 +5,7 @@ authors: 林林
 slug: /after-gaokao-secondary/
 ---
 
-<figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/06/3375eee9ec2e37774dfb738e923cddc7-1024x768.jpg)<figcaption class="wp-element-caption">西电礼仪广场</figcaption></figure>西安的天逐渐热了起来，太阳大，云少，空气都是热的。相比于福建的桑拿天，貌似这里的天气比较好。前段时间没了解过我们宿舍门口的小卖部有没有冰淇淋，于是常骑自行车去老综合楼的蜜雪冰城买圣代吃。前些天知道小卖部有卖方糕了，便开始每天吃一个方糕。
+<figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/06/3375eee9ec2e37774dfb738e923cddc7.jpg)<figcaption class="wp-element-caption">西电礼仪广场</figcaption></figure>西安的天逐渐热了起来，太阳大，云少，空气都是热的。相比于福建的桑拿天，貌似这里的天气比较好。前段时间没了解过我们宿舍门口的小卖部有没有冰淇淋，于是常骑自行车去老综合楼的蜜雪冰城买圣代吃。前些天知道小卖部有卖方糕了，便开始每天吃一个方糕。
 
 高三走读那年，四五月的下午也很热，去学校的路上几乎都会从同一家小卖部买个方糕吃。至于为何选方糕，甜筒融化之后会粘到手上，没卖圣代，三色杯那种还要一只手拿着一只手挖，就方糕省事不麻烦。高考考完之后，离开了学校，几乎没怎么在大热天出过门，就再没吃过。
 

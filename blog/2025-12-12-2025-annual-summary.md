@@ -5,7 +5,7 @@ authors: 林林
 slug: /2025-annual-summary/
 ---
 
-![](/wp-content/uploads/2025/12/IMG_20251231_153853-768x1024.jpg)
+![](/wp-content/uploads/2025/12/IMG_20251231_153853.jpg)
 
 12月31日，西安下起了第一场雪
 
@@ -25,7 +25,7 @@ slug: /2025-annual-summary/
 
 参加了院辩论队的面试，一面跟学长聊辩题，二面打一场比赛。参加了宏辞新生赛的其中一场。参加了辩论队的一次团建，一起玩狼人杀，这是到了大学唯二跟别的同学一起笑。
 
-![](/wp-content/uploads/2025/12/a61592393ede469ba0de7f573bcaa8fa-2-768x1024.jpg)
+![](/wp-content/uploads/2025/12/a61592393ede469ba0de7f573bcaa8fa-2.jpg)
 
 在宏辞新生辩论赛上
 
@@ -35,20 +35,20 @@ slug: /2025-annual-summary/
 
 看了《疯狂动物城2》和《罗小黑战记》两部电影。
 
-![](/wp-content/uploads/2025/12/IMG_20251128_214840-768x1024.jpg)
+![](/wp-content/uploads/2025/12/IMG_20251128_214840.jpg)
 
-![](/wp-content/uploads/2025/12/IMG_20251120_215546-768x1024.jpg)
+![](/wp-content/uploads/2025/12/IMG_20251120_215546.jpg)
 
-![](/wp-content/uploads/2025/12/IMG_20251019_145421-768x1024.jpg)
+![](/wp-content/uploads/2025/12/IMG_20251019_145421.jpg)
 
-![](/wp-content/uploads/2025/12/IMG_20250929_181851-768x1024.jpg)
+![](/wp-content/uploads/2025/12/IMG_20250929_181851.jpg)
 
-![](/wp-content/uploads/2025/12/IMG_20250929_181819-768x1024.jpg)
+![](/wp-content/uploads/2025/12/IMG_20250929_181819.jpg)
 
-![](/wp-content/uploads/2025/12/IMG_20250923_181706-768x1024.jpg)
+![](/wp-content/uploads/2025/12/IMG_20250923_181706.jpg)
 
-![](/wp-content/uploads/2025/12/IMG_20250814_185657-768x1024.jpg)
+![](/wp-content/uploads/2025/12/IMG_20250814_185657.jpg)
 
-![](/wp-content/uploads/2025/12/IMG_20251008_131719-768x1024.jpg)
+![](/wp-content/uploads/2025/12/IMG_20251008_131719.jpg)
 
-![](/wp-content/uploads/2025/12/IMG_20250906_081914-1024x768.jpg)
+![](/wp-content/uploads/2025/12/IMG_20250906_081914.jpg)

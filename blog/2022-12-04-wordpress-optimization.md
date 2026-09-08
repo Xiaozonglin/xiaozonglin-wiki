@@ -23,7 +23,7 @@ WordPress网站的优化向来是装几个插件就可以解决问题，之前�
 
 在CDN这边尽量将js、css以及音频等静态文件的缓存过期时间设大一些。又拍云还有页面的压缩，其中压缩等级设为1就足够，设太大会影响速度。
 
-![](/wp-content/uploads/2022/12/image-1-1024x373.png)
+![](/wp-content/uploads/2022/12/image-1.png)
 
 ![](/wp-content/uploads/2022/12/image-2.png)
 

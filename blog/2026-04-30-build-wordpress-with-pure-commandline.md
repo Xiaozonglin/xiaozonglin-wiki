@@ -68,7 +68,7 @@ ExecStopPost=-/usr/lib/php/php-fpm-socket-helper remove /run/php/php-fpm.sock /e
 (...)
 ```
 
-![](/wp-content/uploads/2026/04/image-9-1024x273.png)
+![](/wp-content/uploads/2026/04/image-9.png)
 
 这下可以显示出页面了，提示说需要安装一个PHP拓展，那我们安装一下。
 
@@ -86,7 +86,7 @@ WordPress无论是自己上传插件文件还是从插件市场上安装都需�
 
 这样大致就OK了。
 
-![](/wp-content/uploads/2026/04/image-10-1024x582.png)
+![](/wp-content/uploads/2026/04/image-10.png)
 
 ![](/wp-content/uploads/2026/04/image-11.png)
 

@@ -19,7 +19,7 @@ slug: /xdsec-push-bot/
 | Napcat | 部署QQ机器人 |
 | Python | 脚本对接AI、FreshRSS和Napcat |
 
-![](/wp-content/uploads/2026/05/image-1-1024x106.png)
+![](/wp-content/uploads/2026/05/image-1.png)
 
 流程图
 

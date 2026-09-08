@@ -32,13 +32,13 @@ slug: /spark-bei-participate-small-ji/
 
 通过我们的观察，大学的课堂教学过程中存在一些问题，例如：
 
-[![](/wp-content/uploads/2026/03/image-1024x578.png)](/wp-content/uploads/2026/03/image.png)
+[![](/wp-content/uploads/2026/03/image.png)](/wp-content/uploads/2026/03/image.png)
 
-[![](/wp-content/uploads/2026/03/image-1-1024x579.png)](/wp-content/uploads/2026/03/image-1.png)
+[![](/wp-content/uploads/2026/03/image-1.png)](/wp-content/uploads/2026/03/image-1.png)
 
-[![](/wp-content/uploads/2026/03/image-2-1024x573.png)](/wp-content/uploads/2026/03/image-2.png)
+[![](/wp-content/uploads/2026/03/image-2.png)](/wp-content/uploads/2026/03/image-2.png)
 
-[![](/wp-content/uploads/2026/03/image-3-1024x575.png)](/wp-content/uploads/2026/03/image-3.png)
+[![](/wp-content/uploads/2026/03/image-3.png)](/wp-content/uploads/2026/03/image-3.png)
 
 从“教、学、管、评”四个角度对教学过程问题的分析（点击图片可跳转到图片文件）
 
@@ -70,7 +70,7 @@ slug: /spark-bei-participate-small-ji/
 
 在与 ChatGPT 沟通的过程中，遇到开发中最麻烦的两个模块`create_retrieval_chain`和`create_stuff_documents_chain`。根据我们 ChatGPT 同学之前的回答，它应该是知道由`langchain_classic`这个包的，但不知道为什么它在这及之后就忘记这两个模块被移到`langchain_classic`里面去了。我也是头脑不清醒，跟着它折腾半天，最后不得不找谷歌看看。（其实谷歌应该是第一选项才对，但是我懒，喜欢让 ai 直接给答案）
 
-![](/wp-content/uploads/2026/03/image-5-1024x247.png "ChatGPT“正儿八经”地给出错误回答")
+![](/wp-content/uploads/2026/03/image-5.png "ChatGPT“正儿八经”地给出错误回答")
 
 我在谷歌上搜索了一下这个导入语句，马上就找到了 [python - Using create\_retrieval\_chain due to RetrievalQA deprecation - Stack Overflow](https://stackoverflow.com/questions/79807773/using-create-retrieval-chain-due-to-retrievalqa-deprecation/79810604#79810604) 这个帖子，将`langchain`改成`langchain_classic`，问题就这样解决了。
 
@@ -78,7 +78,7 @@ slug: /spark-bei-participate-small-ji/
 
 在开发的过程中也遇到过依赖地狱，不过折腾几次全部使用新版本就解决了。
 
-![](/wp-content/uploads/2026/03/image-6-1024x565.png "ChatGPT的聊天截图")
+![](/wp-content/uploads/2026/03/image-6.png "ChatGPT的聊天截图")
 
 **Prompt拼接问题**  
 这个问题也挺搞心态，没找到什么比较好的解决方案，后面用曲线救国的方式解决了。属于是治本不行就治标吧。
@@ -112,7 +112,7 @@ if '<|im_end|>' in token or '<|im_start|>' in token:
 - 问辩的时候展现项目的必要性还不够，相对于通用大模型的不可替代性没讲清楚。
 - 产品对于老师留言提醒的功能做得还不够完善，例如：如果多个学生针对同一问题给老师留言，老师会收到多个邮件。
 
-![](/wp-content/uploads/2026/03/image-8-1024x314.png "Deepseek给出的分析")
+![](/wp-content/uploads/2026/03/image-8.png "Deepseek给出的分析")
 
 差不多要 29 日学院里统计分数后才会出结果，这段时间可以对提出的不完善的功能进行一下优化。如果被推荐到学校里，完善完善，校赛再战。
 
@@ -151,7 +151,7 @@ if '<|im_end|>' in token or '<|im_start|>' in token:
 
 我让 Gemini 根据主动检索的概念对代码进行修改，修改后的 ai 可以自己决定要不要检索知识库，如果是寒暄之类的提问可以直接回答，跳过检索步骤。可以进一步对代码进行优化，让 AI 自己决定检索词。
 
-![](/wp-content/uploads/2026/03/image-10-1024x173.png)
+![](/wp-content/uploads/2026/03/image-10.png)
 
 当提问“栈是什么东西”时，检索被重写为“栈”
 
@@ -161,7 +161,7 @@ if '<|im_end|>' in token or '<|im_start|>' in token:
 
 3 月 29 日晚上，在推完主动检索的修改之后，将新生成的向量知识库上传到 GitHub，发了一个版本。目前的开发任务差不多就完成了。
 
-![](/wp-content/uploads/2026/03/image-13-1024x692.png "Release Note")
+![](/wp-content/uploads/2026/03/image-13.png "Release Note")
 
 3 月 29 日中午，就在我们知道我们这个项目没有被推荐到学校过后不久，学部把选拔赛的获奖名单发出来了，我们项目获得选拔赛的一等奖。到此，主体赛算是“有始有终”。
 
@@ -175,15 +175,15 @@ if '<|im_end|>' in token or '<|im_start|>' in token:
 
 清明节时，我与姚焱夫同学在原有的基础上准备专项赛初赛答辩的PPT。专项赛答辩的时间比主体赛还短，只有3分钟时间，问辩时间也只有2分钟，这对我们来说是一个挑战。吸取之前主体赛答辩背景讲太多的教训，我们将四个方面的背景整合到一页。我们参加的是“教-学-管-评”智能体开发挑战专项赛，将这四个方面一起展示感觉更有冲击力。同时，我们避免出现大段的文字，只留关键词，然后用我自己的审美稍微排版了一下，感觉还行？PPT后面的创新之处也使用这样的排版。
 
-![](/wp-content/uploads/2026/03/image-11-1024x577.png "参加专项赛初赛答辩的ppt-背景")
+![](/wp-content/uploads/2026/03/image-11.png "参加专项赛初赛答辩的ppt-背景")
 
 4 月 9 日晚上，我与姚焱夫同学准备次日早上的专项赛初赛答辩。我们又一次咨询了皓子学长。大佬给了我们很多建议，比如“可以吹自己已经部署使用了一段时间，请了多少个老师同学试用，评分均分多少分”“未来展望，直接落地得了，引入多模态大模型，这种用绘图技术结合下多好”等等。我们对创新之处作了一些修改。
 
-![](/wp-content/uploads/2026/03/image-12-1024x575.png "参加专项赛初赛答辩的ppt-创新之处")
+![](/wp-content/uploads/2026/03/image-12.png "参加专项赛初赛答辩的ppt-创新之处")
 
 次日早上，姚同学前去答辩。姚同学不愧是大佬，结构清晰，回答自信。
 
-![](/wp-content/uploads/2026/03/image-14-1024x685.png "Deepseek评这次答辩")
+![](/wp-content/uploads/2026/03/image-14.png "Deepseek评这次答辩")
 
 ---
 
@@ -191,7 +191,7 @@ if '<|im_end|>' in token or '<|im_start|>' in token:
 
 4 月 9 日，我们看了一下我们的那些展望。姚同学想着用 opencode 把多模态实现了，结果 Deepseek 把代码实现之后，发现它把后端登录、注册的路由给删了。我让同学好好骂一骂 ai。
 
-![](/wp-content/uploads/2026/03/6fd1a23e8174d9ba58ea6d98c36871cc-1024x637.jpeg)
+![](/wp-content/uploads/2026/03/6fd1a23e8174d9ba58ea6d98c36871cc.jpeg)
 
 ai再一次闯祸
 
@@ -210,7 +210,7 @@ ai再一次闯祸
 
 关于多模态部分，我和姚焱夫同学弄了几次没弄好，opencv和ocr好像都差点意思，大模型已读乱回。
 
-![](/wp-content/uploads/2026/03/e82702012294ef837e2b180d720bf174-1024x543.png)
+![](/wp-content/uploads/2026/03/e82702012294ef837e2b180d720bf174.png)
 
 比如这一张，明明没有用算法库里的东西，ai还是回答algorithm
 
@@ -271,11 +271,11 @@ self.llm = AutoModelForVision2Seq.from_pretrained(
 
 使用了Qwen3之后，模型就能够读懂图片了。
 
-![](/wp-content/uploads/2026/03/cc5ec25fce966017efb2914b6337054c-1022x1024.png)
+![](/wp-content/uploads/2026/03/cc5ec25fce966017efb2914b6337054c.png)
 
 同时给定图片和问题，要求根据图片回答指定的问题
 
-![](/wp-content/uploads/2026/03/09a46e5987b1529577d7051b97602dd0-1024x1002.png)
+![](/wp-content/uploads/2026/03/09a46e5987b1529577d7051b97602dd0.png)
 
 不给文字，让ai分析图片，可以看出ai解释图片内容的能力不错
 
@@ -283,7 +283,7 @@ self.llm = AutoModelForVision2Seq.from_pretrained(
 
 #### 知识库自动管理（爬虫）
 
-![](/wp-content/uploads/2026/03/image-15-1024x283.png)
+![](/wp-content/uploads/2026/03/image-15.png)
 
 我关于爬虫流程的想法
 
@@ -312,7 +312,7 @@ print(markdown_content)
 
 4 月 30 日，等了许久的专项赛初赛结果终于出来了。意料之中，进校赛了。看来需要把这个东西再完善完善。
 
-![](/wp-content/uploads/2026/03/5816ac042a41c02cf38d2a7780724141-1024x346.jpg)
+![](/wp-content/uploads/2026/03/5816ac042a41c02cf38d2a7780724141.jpg)
 
 666，还有第二关
 
@@ -396,11 +396,11 @@ if __name__ == "__main__":
 
 在没有使用llm的情况下都回退成了`![1](./wechat_images\1.jpg)`这样的形式，但我又不太像再折腾llm的代码，于是尝试安装一个MinerU引擎看看。感觉效果也不太好。
 
-![](/wp-content/uploads/2026/03/image-17-1024x588.png)
+![](/wp-content/uploads/2026/03/image-17.png)
 
 使用MinerU解析公众号文章的图片
 
-![](/wp-content/uploads/2026/03/image-19-1024x585.png)
+![](/wp-content/uploads/2026/03/image-19.png)
 
 MinerU直接输入图片的效果感觉也不太好
 
@@ -408,13 +408,13 @@ MinerU直接输入图片的效果感觉也不太好
 
 对于 Word 和 pdf 文件，微软的这个MarkItDown已经很好用的，我用我们学校的一位学姐在GitHub上传的物联网作业进行了识别，发现很多信息都保留了，并且文件的结构很清晰。
 
-![](/wp-content/uploads/2026/03/image-20-1024x636.png)
+![](/wp-content/uploads/2026/03/image-20.png)
 
 使用MarkItDown将docx和pdf文件转为markdown文件
 
 在弄好pdf、word、html转为markdown的工作流之后，我发现AI又把知识库建立索引的代码给删了，现在出现这种事要燃尽了。
 
-![](/wp-content/uploads/2026/03/5ba67dcab9326608a8e0a47a352cceaf-1024x630.png)
+![](/wp-content/uploads/2026/03/5ba67dcab9326608a8e0a47a352cceaf.png)
 
 原本没有找到索引是要构建一个的，但现在构建索引的代码没了
 
@@ -422,13 +422,13 @@ MinerU直接输入图片的效果感觉也不太好
 
 现在用Claude Code修一下后端的屎山，主要把flask的路由和ai的逻辑解耦合，把代码当中的冗余去掉，以及弄一份ai能读懂的后端代码文档。先用init命令创建了一个`CLAUDE.md`，然后把上面的andrej-karpathy-skills复制到里面，最后让Deepseek v4修一下屎山。
 
-![](/wp-content/uploads/2026/03/image-22-1024x534.png)
+![](/wp-content/uploads/2026/03/image-22.png)
 
 让ai修屎山
 
 文章评论区的一位大佬（说是老乡）提供了另一个优化的角度，安全方面需要考虑一下防提示词注入。
 
-![](/wp-content/uploads/2026/03/image-16-1024x200.png)
+![](/wp-content/uploads/2026/03/image-16.png)
 
 无名大佬（foo相当于匿名）给的建议
 
@@ -444,7 +444,7 @@ MinerU直接输入图片的效果感觉也不太好
 
 从上面这些测试可以看出，这个库对提示词攻击的覆盖面有些窄了，感觉像是用规则写出来的。看了这个库的代码，的确如此。也没有Gemini说的那样神乎其神，但对于一部分情况够用。
 
-![](/wp-content/uploads/2026/03/image-21-1024x363.png)
+![](/wp-content/uploads/2026/03/image-21.png)
 
 这个代码库中有个patterns目录用来存储一些规则
 

@@ -7,7 +7,7 @@ slug: /xidian-cybersecurity-association-recruitment-system-golang-backend-develo
 
 大概是，今年 1 月份与协会的 CopperKoi 同学把协会的招新系统重新做了一版。CopperKoi 用 Vite 写前端，他和我用 Golang 写后端。后端用 gin 处理请求，用 gorm 对接数据库。文章到这里就结束了。
 
-![](/wp-content/uploads/2026/02/image-1024x554.png)
+![](/wp-content/uploads/2026/02/image.png)
 
 招新系统公测截图
 
@@ -15,7 +15,7 @@ slug: /xidian-cybersecurity-association-recruitment-system-golang-backend-develo
 
 CopperKoi 真的是一个很厉害的大佬。
 
-![](/wp-content/uploads/2026/02/image-1-1024x274.png)
+![](/wp-content/uploads/2026/02/image-1.png)
 
 吹，接着吹
 
@@ -29,15 +29,15 @@ CopperKoi 此前跟我聊过前端。当我问他愿不愿意带飞我做一个�
 
 Golang 写完之后可以直接部署成二进制文件，这一点比 Python 方便许多。虽然能做到这一点的语言很多，Python 也有 Pyinstaller，不过没用过。
 
-![](/wp-content/uploads/2026/02/image-2-1024x518.png)
+![](/wp-content/uploads/2026/02/image-2.png)
 
 对面试者的面试流程
 
-![](/wp-content/uploads/2026/02/1761997760-331194-image-1024x613.png)
+![](/wp-content/uploads/2026/02/1761997760-331194-image.png)
 
 对面试官的面试流程
 
-![](/wp-content/uploads/2026/02/1761999701-2353-image-1024x599.png)
+![](/wp-content/uploads/2026/02/1761999701-2353-image.png)
 
 数据库模型，很古早的流程和数据库设计
 

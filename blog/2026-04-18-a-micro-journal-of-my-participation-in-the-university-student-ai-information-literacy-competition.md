@@ -15,15 +15,15 @@ slug: /a-micro-journal-of-my-participation-in-the-university-student-ai-informat
 
 初赛过去许久，临近省淘汰赛的时间，原本以为学校忘记这件事了，没想到一天图书馆的老师联系我跟两位学长参加淘汰赛。
 
-<figure class="wp-block-image aligncenter size-large is-resized">![](/wp-content/uploads/2026/04/4895b1b269d87c9820b4296602b368e8-532x1024.jpg)<figcaption class="wp-element-caption">与学长组队参加晋级赛</figcaption></figure>在网上见到两位学长之后，我们讨论了一下我们的队名要取什么。之前在哔哩哔哩上面刷到过一些有趣的队名，比如“啊对对队”之类的。因为我们没想到要玩什么梗，所以就老老实实地用校名。
+<figure class="wp-block-image aligncenter size-large is-resized">![](/wp-content/uploads/2026/04/4895b1b269d87c9820b4296602b368e8.jpg)<figcaption class="wp-element-caption">与学长组队参加晋级赛</figcaption></figure>在网上见到两位学长之后，我们讨论了一下我们的队名要取什么。之前在哔哩哔哩上面刷到过一些有趣的队名，比如“啊对对队”之类的。因为我们没想到要玩什么梗，所以就老老实实地用校名。
 
 淘汰赛分为个人对抗和团队对抗，也就是三个人各自做题和三个人一起做题。比赛之前还比较紧张，打开比赛组委会的知识库看点东西。信息素养这个东西感觉不是那种理解完材料就能突飞猛进的，看这些东西感觉像徒劳无功，赛前抱佛脚属于是。
 
-<figure class="wp-block-image aligncenter size-large is-resized">![](/wp-content/uploads/2026/04/5315cc3b9cc8d6cf09d188adadfa56f3-1-768x1024.jpg)<figcaption class="wp-element-caption">在比赛之前提前把知网和维普打开</figcaption></figure>个人对抗赛没答几题就收卷了，现在看当时的比赛录屏感觉自己的动作好慢，为自己感到着急。有一题“在某个网站检索某个关键词得到的第一本书籍某一页的单词是什么”，这种费时间的题目当初就应该及时跳过。团队对抗赛有些题四个选项是相互独立的，这个时候队长把题目发到微信群里，我们三个一起排除答案。团队对抗赛的时间也紧，我记得当时有几道题卡着模棱两可，一看就很费时间，我们直接跳过了，毕竟这个淘汰赛会按照答题时间排名。
+<figure class="wp-block-image aligncenter size-large is-resized">![](/wp-content/uploads/2026/04/5315cc3b9cc8d6cf09d188adadfa56f3-1.jpg)<figcaption class="wp-element-caption">在比赛之前提前把知网和维普打开</figcaption></figure>个人对抗赛没答几题就收卷了，现在看当时的比赛录屏感觉自己的动作好慢，为自己感到着急。有一题“在某个网站检索某个关键词得到的第一本书籍某一页的单词是什么”，这种费时间的题目当初就应该及时跳过。团队对抗赛有些题四个选项是相互独立的，这个时候队长把题目发到微信群里，我们三个一起排除答案。团队对抗赛的时间也紧，我记得当时有几道题卡着模棱两可，一看就很费时间，我们直接跳过了，毕竟这个淘汰赛会按照答题时间排名。
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2026/04/淘汰赛照片3-1024x461.jpg)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2026/04/淘汰赛照片1-1024x540.jpg)</figure><figcaption class="blocks-gallery-caption wp-element-caption">省淘汰赛成绩</figcaption></figure>省淘汰赛之后就是省赛，需要我们提交一个关于AI和信息素养的案例。当时准备作品的时间和期中考试撞在一起了，我们的队长想出了一个“线性代数的秩：从检索到证据的闭环学习”案例，我们在这个案例的基础上做PPT和说明文档的美化和润色。队长不知道在哪个平台弄的，在案例介绍视频里加了一个数字人。
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><figure class="wp-block-image size-large">![](/wp-content/uploads/2026/04/淘汰赛照片3.jpg)</figure><figure class="wp-block-image size-large">![](/wp-content/uploads/2026/04/淘汰赛照片1.jpg)</figure><figcaption class="blocks-gallery-caption wp-element-caption">省淘汰赛成绩</figcaption></figure>省淘汰赛之后就是省赛，需要我们提交一个关于AI和信息素养的案例。当时准备作品的时间和期中考试撞在一起了，我们的队长想出了一个“线性代数的秩：从检索到证据的闭环学习”案例，我们在这个案例的基础上做PPT和说明文档的美化和润色。队长不知道在哪个平台弄的，在案例介绍视频里加了一个数字人。
 
-<figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/04/image-1024x577.png)<figcaption class="wp-element-caption">案例介绍视频开头</figcaption></figure>队长将材料交上去后，得了奖。我的“关于我”就多了这样一行。
+<figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/04/image.png)<figcaption class="wp-element-caption">案例介绍视频开头</figcaption></figure>队长将材料交上去后，得了奖。我的“关于我”就多了这样一行。
 
 <figure class="wp-block-image aligncenter size-full is-resized">![](/wp-content/uploads/2026/04/image-1.png)<figcaption class="wp-element-caption">所获奖项多了一行</figcaption></figure>我们省赛的微信群到现在还没有解散，两位学长非常的厉害，我[星火杯](/spark-bei-participate-small-ji/)的时候还向两位学长寻求经验。
 

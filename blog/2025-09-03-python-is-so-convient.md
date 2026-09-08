@@ -21,7 +21,7 @@ slug: /python-is-so-convient/
 
 第一次，我的想法是这样的：
 
-![](/wp-content/uploads/2025/09/image-1024x322.png)
+![](/wp-content/uploads/2025/09/image.png)
 
 用 OneNote 画的超级丑的图
 
@@ -120,7 +120,7 @@ tree.write('result-tech.xml', encoding = 'utf-8', xml_declaration = True)
 
 最开始是跟组里的同学确定一下需求，是这样的：
 
-![](/wp-content/uploads/2025/09/image-2-1024x372.png)
+![](/wp-content/uploads/2025/09/image-2.png)
 
 用飞书画的模式图，比较漂亮
 
@@ -130,7 +130,7 @@ tree.write('result-tech.xml', encoding = 'utf-8', xml_declaration = True)
 
 接着，我对要用到的接口进行了整理，大致如下：
 
-![](/wp-content/uploads/2025/09/image-3-1024x445.png)
+![](/wp-content/uploads/2025/09/image-3.png)
 
 这是我第一次做项目。虽然最后没有严格按照这样开发，但我仍然认为这样做是必要的，因为这样做我不再是无头苍蝇了。
 
