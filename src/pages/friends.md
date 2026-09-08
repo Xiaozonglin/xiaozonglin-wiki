@@ -26,7 +26,7 @@ date: 2023-01-18
 - **[ImQi1](https://imqi1.com/)** 我从网站中感受到强烈的美感
 - **[Lanke's Blog](https://www.blueke.top/)** 技术类文章不懂，生活类文章我还不会评论吗
 - **[土木坛子](https://tumutanzi.com/)** 严谨对待博客的大学教授
-- [**菲兹克斯喵**](https://physnya.top) $\text{physnya} \equiv \text{Physics} \oplus \text{Nya}$
+- [**菲兹克斯喵**](https://physnya.top) physnya = Physics + Nya
 - **[夜海行舟](https://brocalife.com/)** 在情绪之海上航行，博客即是航行日志
 - **[墨希](https://note.moxiify.cn/)** 一个同龄人的开发、生活日志
 - **[咖啡豆子](https://blog.kfdzcoffee.cn/)** 会长辛苦了，为同学们服务！
