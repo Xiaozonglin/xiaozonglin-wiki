@@ -25,11 +25,15 @@ tags:
 
 第一次，我的想法是这样的：
 
-<figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2025/09/image-1024x322.png)<figcaption class="wp-element-caption">用 OneNote 画的超级丑的图</figcaption></figure>但是，当我真的去按照这个思路写代码的时候，电脑报错了。检查之后发现是中文博客列表导航有频率限制。我尝试 sleep 了一下，发现效果不好。这样会给中文博客列表导航发一千多次请求，对项目不友好。
+![](/wp-content/uploads/2025/09/image-1024x322.png)
+
+用 OneNote 画的超级丑的图
+
+但是，当我真的去按照这个思路写代码的时候，电脑报错了。检查之后发现是中文博客列表导航有频率限制。我尝试 sleep 了一下，发现效果不好。这样会给中文博客列表导航发一千多次请求，对项目不友好。
 
 所以，我对思路进行了改进（其实并不是）：首先请求中文博客列表导航和开往的全量数据（相当于复刻了两个项目的数据库），再在中文博客列表导航的数据里查开往的成员网站，找到订阅地址信息。代码碎片如下：
 
-```
+```python
 travellingsData = requests.get('https://api.travellings.cn/all', headers = headers)
 travellingsData = list(json.loads(travellingsData.text)["data"])
 
@@ -50,7 +54,7 @@ def searchZhblogs(targetDomain, zhblogsAllData):
 
 接下来是如何生成 OPML。我找组里的 Kegongteng 要了一份文件，看了一下文件的结构，感觉还挺简单的，就是这个 xml 不知道要用什么东西搞定。字符串拼接？我之前想过这个东西，但是肉眼可见的麻烦。懒惰的我上网搜了一下 Python 生成 xml 文件的方法，发现了一个东西，让我眼前一亮。
 
-```
+```python
 import xml.etree.ElementTree as ET
 
 # 创建根元素
@@ -74,7 +78,7 @@ tree.write("example.xml")
 
 有了这个库，我就可以不用尝试痛苦的字符串拼接了，直接写成以下代码：
 
-```
+```python
 root = Element('opml')
 root.attrib["xmlns:frss"] = "https://freshrss.org/opml"
 root.attrib["version"] = "2.0"
@@ -114,29 +118,37 @@ tree.write('result-tech.xml', encoding = 'utf-8', xml_declaration = True)
 
 ## 用 Python 写巡查工具后端
 
-<figure class="wp-block-image aligncenter size-full">![](/wp-content/uploads/2025/09/image-1.png)<figcaption class="wp-element-caption">一句玩笑话</figcaption></figure>开往的巡查工具又是一个拖了很久的东西，之前大蛋糕写的前端代码还在。我来<s>折腾</s>（捣乱）一下。
+![](/wp-content/uploads/2025/09/image-1.png)
+
+开往的巡查工具又是一个拖了很久的东西，之前大蛋糕写的前端代码还在。我来<s>折腾</s>（捣乱）一下。
 
 最开始是跟组里的同学确定一下需求，是这样的：
 
-<figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2025/09/image-2-1024x372.png)<figcaption class="wp-element-caption">用飞书画的模式图，比较漂亮</figcaption></figure>然后，因为我喜欢折腾，所以这个东西前端和后端分成两个人完成——前端由组里的 Lee 同学负责，后端就由我来糟蹋了。
+![](/wp-content/uploads/2025/09/image-2-1024x372.png)
+
+用飞书画的模式图，比较漂亮
+
+然后，因为我喜欢折腾，所以这个东西前端和后端分成两个人完成——前端由组里的 Lee 同学负责，后端就由我来糟蹋了。
 
 首先是看看用 Python 的什么开发。Django？太重了，还会把前端的活给刨了。FastAPI？文档看不懂（太真实了）。为什么不用 Node.js 开发呢？因为我看不懂教程。所以，我用 Python Flask 来做后端，因为它够轻，够简单，够友好。
 
 接着，我对要用到的接口进行了整理，大致如下：
 
-<figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2025/09/image-3-1024x445.png)</figure>这是我第一次做项目。虽然最后没有严格按照这样开发，但我仍然认为这样做是必要的，因为这样做我不再是无头苍蝇了。
+![](/wp-content/uploads/2025/09/image-3-1024x445.png)
+
+这是我第一次做项目。虽然最后没有严格按照这样开发，但我仍然认为这样做是必要的，因为这样做我不再是无头苍蝇了。
 
 然后，我用 PHPStudy 配了一下 MySQL 数据库环境，开始“查文档-写代码-调试”的循环。这个过程超级花时间，我还容易忘记时间。几次下午坐在电脑面前一坐就坐到夜晚。几次我爸我妈教我下楼吃饭，我都还在忙着改 SQL 查询语句，最后我爸把饭端到房间让我边写边吃。
 
 开发过程琐碎。这里列出一些问题，以及我的解决方法（或者是组里的 Lee 和 Xuanzhi 同学告诉我的）
 
-<figure class="wp-block-table">| 问题 | 解决方法 |
+| 问题 | 解决方法 |
 |---|---|
 | 路由挤在一个文件里面不利于维护 | 使用 Flask 的 Blueprint |
 | 要防止 SQL 注入攻击 | 使用参数化查询 |
 | CORS 跨域 | 使用 flask\_cors 拓展库 |
 | 配置参数硬写在代码里不好 | 使用 .env 以及 Python 相应的库 |
 
-</figure>Xuanzhi 还提了一些关于接口设计的问题，比如不宜用 ifSuccess 作布尔值的名称，而应为 Success 或 isSuccess。我发现我把 is 记成 if 了。
+Xuanzhi 还提了一些关于接口设计的问题，比如不宜用 ifSuccess 作布尔值的名称，而应为 Success 或 isSuccess。我发现我把 is 记成 if 了。
 
 各位大佬可以在 [GitHub](https://github.com/travellings-link/check-tool-backend) 上看到本小菜鸡的代码。如果有改进建议，还请批评指出。
