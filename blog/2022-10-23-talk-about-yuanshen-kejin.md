@@ -1,6 +1,6 @@
 ---
 title: 从《原神》谈到氪金
-date: '2022-10-23T15:26:00+08:00'
+date: 2022-10-23
 authors: 林林
 slug: /talk-about-yuanshen-kejin/
 categories:

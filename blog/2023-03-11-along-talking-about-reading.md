@@ -1,6 +1,6 @@
 ---
 title: 也谈读书
-date: '2023-03-11T22:21:15+08:00'
+date: 2023-03-11
 authors: 林林
 slug: /along-talking-about-reading/
 categories:

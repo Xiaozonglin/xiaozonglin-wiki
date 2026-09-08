@@ -1,7 +1,7 @@
 ---
 id: 1402
 title: '「进行中」XDSec SSO开发小记'
-date: '2026-05-17T11:22:57+08:00'
+date: 2026-05-17
 authors: 林林
 excerpt: ''
 layout: post

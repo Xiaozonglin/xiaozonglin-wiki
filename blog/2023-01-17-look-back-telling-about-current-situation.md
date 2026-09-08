@@ -1,6 +1,6 @@
 ---
 title: 三年前的回忆与近况
-date: '2023-01-17T22:36:00+08:00'
+date: 2023-01-17
 authors: 林林
 slug: /look-back-telling-about-current-situation/
 categories:

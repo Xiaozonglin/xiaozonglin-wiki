@@ -1,6 +1,6 @@
 ---
 title: 静与自我
-date: '2022-10-29T19:56:00+08:00'
+date: 2022-10-29
 authors: 林林
 slug: /silence-myself/
 categories:

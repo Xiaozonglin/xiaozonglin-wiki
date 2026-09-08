@@ -1,6 +1,6 @@
 ---
 title: '西电信安协会招新系统 Golang 后端开发小记'
-date: '2026-02-05T18:07:31+08:00'
+date: 2026-02-05
 authors: 林林
 slug: /xidian-cybersecurity-association-recruitment-system-golang-backend-development-notes/
 categories:

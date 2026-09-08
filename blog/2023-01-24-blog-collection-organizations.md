@@ -1,6 +1,6 @@
 ---
 title: 博客聚合项目盘点
-date: '2023-01-24T16:40:00+08:00'
+date: 2023-01-24
 authors: 林林
 slug: /blog-collection-organizations/
 ppma_authors_name:

@@ -1,6 +1,6 @@
 ---
 title: 兴趣的魅力
-date: '2023-11-19T15:48:32+08:00'
+date: 2023-11-19
 authors: 林林
 slug: /the-charm-of-interest/
 categories:

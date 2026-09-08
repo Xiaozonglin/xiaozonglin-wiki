@@ -1,6 +1,6 @@
 ---
 title: 一次不尽兴的瞎逛逛
-date: '2023-01-11T12:58:32+08:00'
+date: 2023-01-11
 authors: 林林
 slug: /travelling-old-houses/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 雨夜
-date: '2024-07-26T10:39:00+08:00'
+date: 2024-07-26
 authors: 林林
 slug: /rainy-night/
 categories:

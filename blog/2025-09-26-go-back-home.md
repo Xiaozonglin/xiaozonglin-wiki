@@ -1,6 +1,6 @@
 ---
 title: 回家？
-date: '2025-09-26T21:54:38+08:00'
+date: 2025-09-26
 authors: 林林
 slug: /go-back-home/
 categories:

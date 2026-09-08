@@ -1,6 +1,6 @@
 ---
 title: 近些日来多事，无妨提笔话秋
-date: '2023-06-10T22:10:00+08:00'
+date: 2023-06-10
 authors: 林林
 slug: /okay-to-talk-about-things/
 categories:

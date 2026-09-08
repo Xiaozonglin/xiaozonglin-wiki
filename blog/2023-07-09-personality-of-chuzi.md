@@ -1,6 +1,6 @@
 ---
 title: 厨子的性格
-date: '2023-07-09T23:05:05+08:00'
+date: 2023-07-09
 authors: 林林
 slug: /personality-of-chuzi/
 categories:

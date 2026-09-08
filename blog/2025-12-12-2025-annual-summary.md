@@ -1,6 +1,6 @@
 ---
 title: 2025年终总结
-date: '2025-12-12T23:11:51+08:00'
+date: 2025-12-12
 authors: 林林
 slug: /2025-annual-summary/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 高考之后，出分之前（已经录取版）
-date: '2025-06-24T09:20:00+08:00'
+date: 2025-06-24
 authors: 林林
 slug: /between-gaokao-and-scores/
 ppma_authors_name:

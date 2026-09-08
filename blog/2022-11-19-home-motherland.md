@@ -1,6 +1,6 @@
 ---
 title: 家
-date: '2022-11-19T17:31:00+08:00'
+date: 2022-11-19
 authors: 林林
 slug: /home-motherland/
 categories:

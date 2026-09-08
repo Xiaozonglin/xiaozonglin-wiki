@@ -1,6 +1,6 @@
 ---
 title: 生活的理想化
-date: '2023-04-19T21:07:48+08:00'
+date: 2023-04-19
 authors: 林林
 slug: /idealization-of-life/
 categories:

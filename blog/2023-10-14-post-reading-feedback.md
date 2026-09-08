@@ -1,6 +1,6 @@
 ---
 title: 读后感
-date: '2023-10-14T22:35:37+08:00'
+date: 2023-10-14
 authors: 林林
 slug: /post-reading-feedback/
 categories:

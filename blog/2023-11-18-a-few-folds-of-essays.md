@@ -1,6 +1,6 @@
 ---
 title: 随笔几则
-date: '2023-11-18T21:22:00+08:00'
+date: 2023-11-18
 authors: 林林
 slug: /a-few-folds-of-essays/
 categories:

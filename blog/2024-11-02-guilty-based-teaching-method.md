@@ -1,6 +1,6 @@
 ---
 title: 愧疚式教学法
-date: '2024-11-02T22:29:11+08:00'
+date: 2024-11-02
 authors: 林林
 slug: /guilty-based-teaching-method/
 categories:

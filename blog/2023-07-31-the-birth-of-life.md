@@ -1,6 +1,6 @@
 ---
 title: 宇宙史诗——生命诞生
-date: '2023-07-31T18:17:00+08:00'
+date: 2023-07-31
 authors: 林林
 slug: /the-birth-of-life/
 categories:

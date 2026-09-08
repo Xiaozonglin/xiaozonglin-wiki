@@ -1,6 +1,6 @@
 ---
 title: 小东西：用FreshRSS实现带AI摘要的订阅推送
-date: '2026-05-10T12:38:40+08:00'
+date: 2026-05-10
 authors: 林林
 slug: /xdsec-push-bot/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 被攻击的下午
-date: '2023-01-20T21:22:33+08:00'
+date: 2023-01-20
 authors: 林林
 slug: /afternoon-under-attack/
 categories:

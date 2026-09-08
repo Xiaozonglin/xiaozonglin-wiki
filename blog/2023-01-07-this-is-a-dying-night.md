@@ -1,6 +1,6 @@
 ---
 title: 这是一个安静的夜晚
-date: '2023-01-07T23:04:53+08:00'
+date: 2023-01-07
 authors: 林林
 slug: /this-is-a-dying-night/
 categories:

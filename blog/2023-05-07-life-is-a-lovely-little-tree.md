@@ -1,6 +1,6 @@
 ---
 title: 生命是棵可爱的小树
-date: '2023-05-07T07:49:16+08:00'
+date: 2023-05-07
 authors: 林林
 slug: /life-is-a-lovely-little-tree/
 categories:

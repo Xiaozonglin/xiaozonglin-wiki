@@ -1,6 +1,6 @@
 ---
 title: 一些过往的平常的回忆
-date: '2025-04-19T22:14:26+08:00'
+date: 2025-04-19
 authors: 林林
 slug: /some-normal-memory-when-i-was-young/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 人定胜天
-date: '2022-10-30T09:48:29+08:00'
+date: 2022-10-30
 authors: 林林
 guid: 'https://www.xiaozonglin.cn/?p=22'
 slug: /human-force/

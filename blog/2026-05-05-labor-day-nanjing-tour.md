@@ -1,7 +1,7 @@
 ---
 id: 1306
 title: 五一假期：南京之行
-date: '2026-05-05T08:28:13+08:00'
+date: 2026-05-05
 authors: 林林
 excerpt: 游玩南京，拍了一些照片。
 layout: post

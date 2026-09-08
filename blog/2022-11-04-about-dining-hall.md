@@ -1,6 +1,6 @@
 ---
 title: 谈食堂里的行为
-date: '2022-11-04T20:06:23+08:00'
+date: 2022-11-04
 authors: 林林
 slug: /about-dining-hall/
 categories:

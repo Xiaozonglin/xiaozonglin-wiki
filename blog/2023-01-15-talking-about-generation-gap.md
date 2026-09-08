@@ -1,6 +1,6 @@
 ---
 title: 谈谈代沟
-date: '2023-01-15T20:50:00+08:00'
+date: 2023-01-15
 authors: 林林
 slug: /talking-about-generation-gap/
 categories:

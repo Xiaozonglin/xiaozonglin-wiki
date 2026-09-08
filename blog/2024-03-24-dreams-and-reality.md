@@ -1,6 +1,6 @@
 ---
 title: 梦境与现实
-date: '2024-03-24T10:50:45+08:00'
+date: 2024-03-24
 authors: 林林
 slug: /dreams-and-reality/
 categories:

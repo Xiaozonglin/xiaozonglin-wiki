@@ -1,6 +1,6 @@
 ---
 title: 浅谈内卷
-date: '2024-04-04T18:21:00+08:00'
+date: 2024-04-04
 authors: 林林
 slug: /about-involution/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 整活：基于对等原则的流量交换系统
-date: '2026-01-16T17:18:10+08:00'
+date: 2026-01-16
 authors: 林林
 slug: /swap-system-based-on-equality-principle/
 categories:

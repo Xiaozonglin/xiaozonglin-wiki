@@ -1,6 +1,6 @@
 ---
 title: 童年与生活
-date: '2022-11-24T21:29:11+08:00'
+date: 2022-11-24
 authors: 林林
 slug: /childhood-went-away/
 categories:

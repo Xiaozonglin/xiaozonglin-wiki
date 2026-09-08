@@ -1,6 +1,6 @@
 ---
 title: 变老
-date: '2024-07-11T10:23:00+08:00'
+date: 2024-07-11
 authors: 林林
 slug: /coming-old/
 categories:

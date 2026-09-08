@@ -1,6 +1,6 @@
 ---
 title: 我有一个同学
-date: '2024-07-11T11:04:00+08:00'
+date: 2024-07-11
 authors: 林林
 slug: /i-have-a-classmate/
 categories:

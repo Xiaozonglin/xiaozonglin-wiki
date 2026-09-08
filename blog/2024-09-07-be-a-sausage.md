@@ -1,6 +1,6 @@
 ---
 title: 成为业余无线电的一名香肠？
-date: '2024-09-07T23:51:17+08:00'
+date: 2024-09-07
 authors: 林林
 slug: /be-a-sausage/
 categories:

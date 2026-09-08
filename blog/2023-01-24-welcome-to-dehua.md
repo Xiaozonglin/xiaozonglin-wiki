@@ -1,6 +1,6 @@
 ---
 title: 来到德化
-date: '2023-01-24T16:06:00+08:00'
+date: 2023-01-24
 authors: 林林
 slug: /welcome-to-dehua/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 谈学习
-date: '2022-11-13T16:02:48+08:00'
+date: 2022-11-13
 authors: 林林
 slug: /talk-about-study/
 categories:

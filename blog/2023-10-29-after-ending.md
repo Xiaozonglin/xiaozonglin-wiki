@@ -1,6 +1,6 @@
 ---
 title: 结束之后
-date: '2023-10-29T09:47:52+08:00'
+date: 2023-10-29
 authors: 林林
 slug: /after-ending/
 categories:

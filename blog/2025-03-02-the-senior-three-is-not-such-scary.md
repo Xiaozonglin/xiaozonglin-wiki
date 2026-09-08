@@ -1,6 +1,6 @@
 ---
 title: 高三也没有那么可怕
-date: '2025-03-02T11:35:19+08:00'
+date: 2025-03-02
 authors: 林林
 slug: /the-senior-three-is-not-such-scary/
 categories:

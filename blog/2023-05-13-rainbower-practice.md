@@ -1,6 +1,6 @@
 ---
 title: Rainbower——年段英语报纸的实践
-date: '2023-05-13T22:52:38+08:00'
+date: 2023-05-13
 authors: 林林
 slug: /rainbower-practice/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 夜间闲想
-date: '2023-09-24T11:29:51+08:00'
+date: 2023-09-24
 authors: 林林
 slug: /think-in-my-free-time/
 categories:

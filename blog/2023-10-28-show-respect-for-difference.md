@@ -1,6 +1,6 @@
 ---
 title: 尊重不同
-date: '2023-10-28T22:29:31+08:00'
+date: 2023-10-28
 authors: 林林
 slug: /show-respect-for-difference/
 categories:

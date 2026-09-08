@@ -1,6 +1,6 @@
 ---
 title: 搜索引擎优化：是什么、怎么做
-date: '2023-02-12T09:54:00+08:00'
+date: 2023-02-12
 authors: 林林
 slug: /what-and-how-of-search-engine-optimization/
 categories:

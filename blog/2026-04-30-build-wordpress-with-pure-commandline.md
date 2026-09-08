@@ -1,7 +1,7 @@
 ---
 id: 1296
 title: 再见面板：Debian构建WordPress
-date: '2026-04-30T23:42:30+08:00'
+date: 2026-04-30
 authors: 林林
 excerpt: ''
 layout: post

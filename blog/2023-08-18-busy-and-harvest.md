@@ -1,6 +1,6 @@
 ---
 title: 忙碌与收获
-date: '2023-08-18T22:41:00+08:00'
+date: 2023-08-18
 authors: 林林
 slug: /busy-and-harvest/
 categories:

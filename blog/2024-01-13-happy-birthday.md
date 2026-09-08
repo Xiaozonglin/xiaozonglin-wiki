@@ -1,6 +1,6 @@
 ---
 title: 生日
-date: '2024-01-13T22:35:23+08:00'
+date: 2024-01-13
 authors: 林林
 slug: /happy-birthday/
 categories:

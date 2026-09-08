@@ -1,6 +1,6 @@
 ---
 title: 死亡与失败
-date: '2022-12-10T23:34:00+08:00'
+date: 2022-12-10
 authors: 林林
 slug: /failure-and-death/
 categories:

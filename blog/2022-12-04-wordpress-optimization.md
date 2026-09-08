@@ -1,6 +1,6 @@
 ---
 title: WordPress网站优化
-date: '2022-12-04T11:41:44+08:00'
+date: 2022-12-04
 authors: 林林
 slug: /wordpress-optimization/
 categories:

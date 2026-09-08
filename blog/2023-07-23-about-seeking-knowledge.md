@@ -1,6 +1,6 @@
 ---
 title: 谈求知
-date: '2023-07-23T17:40:23+08:00'
+date: 2023-07-23
 authors: 林林
 slug: /about-seeking-knowledge/
 categories:

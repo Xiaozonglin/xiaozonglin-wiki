@@ -1,6 +1,6 @@
 ---
 title: '使用 Acrylic 复现百团大战 WiFi 钓鱼攻击：关于 Klutton 学长记录的补充'
-date: '2025-10-07T22:58:21+08:00'
+date: 2025-10-07
 authors: 林林
 slug: /acrylic-wifi-phishing/
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 糟糕的网上聊天
-date: '2023-01-29T20:12:00+08:00'
+date: 2023-01-29
 authors: 林林
 slug: /terrible-online-chatting/
 categories:

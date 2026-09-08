@@ -1,6 +1,6 @@
 ---
 title: 加入开往团队所给我带来的
-date: '2023-08-28T20:22:48+08:00'
+date: 2023-08-28
 authors: 林林
 slug: /after-joined-travellings/
 categories:

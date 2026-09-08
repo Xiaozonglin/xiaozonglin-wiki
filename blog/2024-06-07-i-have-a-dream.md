@@ -1,6 +1,6 @@
 ---
 title: 梦想
-date: '2024-06-07T23:25:15+08:00'
+date: 2024-06-07
 authors: 林林
 slug: /i-have-a-dream/
 categories:

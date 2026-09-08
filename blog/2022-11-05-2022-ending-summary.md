@@ -1,6 +1,6 @@
 ---
 title: 2022年终总结
-date: '2022-11-05T16:07:28+08:00'
+date: 2022-11-05
 authors: 林林
 slug: /2022-ending-summary/
 categories:

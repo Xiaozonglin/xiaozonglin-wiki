@@ -1,7 +1,7 @@
 ---
 id: 789
 title: 云上
-date: '2026-02-07T23:25:21+08:00'
+date: 2026-02-07
 authors: 林林
 excerpt: 短聚，长离。
 layout: post

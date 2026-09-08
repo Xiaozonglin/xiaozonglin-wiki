@@ -1,6 +1,6 @@
 ---
 title: 从“然后呢”谈功利性的人际交往
-date: '2023-03-11T20:43:00+08:00'
+date: 2023-03-11
 authors: 林林
 slug: /utilitarianism-in-interpersonal-communication/
 categories:

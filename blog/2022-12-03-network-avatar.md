@@ -1,6 +1,6 @@
 ---
 title: 综谈网络头像
-date: '2022-12-03T21:12:32+08:00'
+date: 2022-12-03
 authors: 林林
 slug: /network-avatar/
 categories:

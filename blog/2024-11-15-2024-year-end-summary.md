@@ -1,6 +1,6 @@
 ---
 title: 2024年年终总结
-date: '2024-11-15T19:57:00+08:00'
+date: 2024-11-15
 authors: 林林
 slug: /2024-year-end-summary/
 categories:

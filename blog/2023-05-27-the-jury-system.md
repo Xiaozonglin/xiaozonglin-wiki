@@ -1,6 +1,6 @@
 ---
 title: 谈众裁官制度
-date: '2023-05-27T21:42:20+08:00'
+date: 2023-05-27
 authors: 林林
 slug: /the-jury-system/
 categories:

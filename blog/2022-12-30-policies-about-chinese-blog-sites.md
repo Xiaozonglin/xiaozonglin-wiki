@@ -1,6 +1,6 @@
 ---
 title: 中国境内个人博客网站相关政策收集
-date: '2022-12-30T16:50:01+08:00'
+date: 2022-12-30
 authors: 林林
 slug: /policies-about-chinese-blog-sites/
 categories:

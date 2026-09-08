@@ -1,6 +1,6 @@
 ---
 title: 你是风
-date: '2023-03-25T20:25:00+08:00'
+date: 2023-03-25
 authors: 林林
 slug: /for-kaedehara-kazuha/
 categories:

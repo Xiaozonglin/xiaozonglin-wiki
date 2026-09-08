@@ -1,6 +1,6 @@
 ---
 title: 再见面板：记zhblogs运维
-date: '2026-04-28T23:30:37+08:00'
+date: 2026-04-28
 authors: 林林
 slug: /goodbye-server-panel-zhblogs/
 categories:

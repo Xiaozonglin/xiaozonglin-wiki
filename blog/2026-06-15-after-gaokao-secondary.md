@@ -1,7 +1,7 @@
 ---
 id: 1461
 title: 高考之后（贰）
-date: '2026-06-15T16:44:41+08:00'
+date: 2026-06-15
 authors: 林林
 excerpt: ''
 layout: post

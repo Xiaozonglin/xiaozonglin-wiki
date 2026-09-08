@@ -1,7 +1,7 @@
 ---
 id: 948
 title: 新年新气象：网站快一点，再快一点
-date: '2026-02-16T12:28:02+08:00'
+date: 2026-02-16
 authors: 林林
 excerpt: 新年新气象，进行了一次网站性能优化，这次没有依赖堆积如山的WordPress插件。
 layout: post

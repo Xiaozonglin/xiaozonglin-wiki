@@ -1,6 +1,6 @@
 ---
 title: 我弟
-date: '2025-04-26T11:05:00+08:00'
+date: 2025-04-26
 authors: 林林
 slug: /my-little-brother/
 categories:
