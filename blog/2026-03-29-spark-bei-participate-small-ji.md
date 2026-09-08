@@ -3,11 +3,6 @@ title: 「进行中」星火杯参赛小记：XDWe——驱动教学相长的AI�
 date: 2026-03-29
 authors: 林林
 slug: /spark-bei-participate-small-ji/
-categories:
-    - 技术与研究
-tags:
-    - ai
-    - 竞赛
 ---
 
 本篇文章使用时间顺序整理和撰写，大致就是比赛的流程。我们在几次答辩后根据新情况对代码进行优化，于是就有每次答辩之后紧跟着的改进和优化。我们项目的大致信息如下：

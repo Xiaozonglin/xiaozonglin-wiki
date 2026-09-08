@@ -3,10 +3,6 @@ title: 博文与评论的意义
 date: 2022-12-18
 authors: 林林
 slug: /meaning-of-blog-posts-and-commenting/
-categories:
-    - 生活
-tags:
-    - 杂谈
 ---
 
 <audio controls="" src="/wp-content/uploads/2022/12/陈致逸-HOYO-MiX-Lingering-Blossom-永远的花火.mp3"></audio>

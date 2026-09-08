@@ -3,11 +3,6 @@ title: Rainbower——年段英语报纸的实践
 date: 2023-05-13
 authors: 林林
 slug: /rainbower-practice/
-categories:
-    - 生活
-tags:
-    - 学习
-    - 英语
 ---
 
 在三月下旬，我跟我的英语老师表达了办英语报纸的想法。在老师的支持下，我做出了尝试。就在一个周末的上午，从网上找了一篇 ChatGPT 以及 Genshin Impact 的文章，稍加排版，并弄上中文注释，把这篇勉强的第一版发给了我的英语老师。

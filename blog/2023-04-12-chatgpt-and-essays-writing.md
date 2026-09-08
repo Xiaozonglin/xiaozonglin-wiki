@@ -3,12 +3,6 @@ title: 博文写作的过程中不应过度使用人工智能
 date: 2023-04-12
 authors: 林林
 slug: /chatgpt-and-essays-writing/
-categories:
-    - 生活
-tags:
-    - ChatGPT
-    - 博客
-    - 杂谈
 ---
 
 2024年4月13日更新：重读此文，认为本博客有坚守阵地的义务，故在网站底部添加标识，指向此文章。

@@ -1,18 +1,8 @@
 ---
-id: 1256
 title: 半学期记：春日校园
 date: 2026-04-28
 authors: 林林
-excerpt: 分享自己半个学期以来拍的照片。
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=1256'
 slug: /photos-of-campus-2026-spring/
-categories:
-    - 生活
-tags:
-    - 摄影
-    - 照片
-format: false
 ---
 
 4月22日，期中考试结束了，半个学期就这么过去了。校园很美，翻了翻这半个学期来自己拍的照片，技术很烂，用手机记录下的照片并不清晰，有些照片我现在看过去自己都没看懂要表达什么。我将一些照片筛选出来，与各位分享。

@@ -3,11 +3,6 @@ title: 再见面板：记zhblogs运维
 date: 2026-04-28
 authors: 林林
 slug: /goodbye-server-panel-zhblogs/
-categories:
-    - 技术与研究
-tags:
-    - zhblogs
-    - 项目
 ---
 
 之前沐云问我愿不愿意回到 zhblogs 参加维护，我回答如果参加的话希望可以负责一些运维有关的任务，于是在 zhblogs 新版本上线前夕，沐云问我愿不愿意部署新版本。

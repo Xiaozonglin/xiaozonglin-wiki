@@ -3,11 +3,6 @@ title: 死亡与失败
 date: 2022-12-10
 authors: 林林
 slug: /failure-and-death/
-categories:
-    - 生活
-tags:
-    - 杂谈
-    - 自我
 ---
 
 这篇文章已经改了几次。每当有遇到值得加到这篇文章，值得作为我对于死亡思考的内容，就会加到文章的前面。

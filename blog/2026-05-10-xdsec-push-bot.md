@@ -3,10 +3,6 @@ title: 小东西：用FreshRSS实现带AI摘要的订阅推送
 date: 2026-05-10
 authors: 林林
 slug: /xdsec-push-bot/
-categories:
-    - 开发
-tags:
-    - Python
 ---
 
 前几天在协会问了一下有没有什么开发任务，然后找了一个开发订阅推送的活。

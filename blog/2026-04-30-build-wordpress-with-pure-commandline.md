@@ -1,17 +1,8 @@
 ---
-id: 1296
 title: 再见面板：Debian构建WordPress
 date: 2026-04-30
 authors: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=1296'
 slug: /build-wordpress-with-pure-commandline/
-categories:
-    - 技术与研究
-tags:
-    - 运维
-format: false
 ---
 
 任务要求：使用Debian纯命令行构建自己的WordPress网站，并通过一些方法支持`http://linlin.zzo`访问。

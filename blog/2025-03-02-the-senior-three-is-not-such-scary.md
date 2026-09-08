@@ -3,11 +3,6 @@ title: 高三也没有那么可怕
 date: 2025-03-02
 authors: 林林
 slug: /the-senior-three-is-not-such-scary/
-categories:
-    - 日志
-tags:
-    - 记录
-    - 高三
 ---
 
 今天距离高考还有不到100天的时间。

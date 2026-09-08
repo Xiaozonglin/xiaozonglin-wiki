@@ -1,18 +1,8 @@
 ---
-id: 1230
 title: 旧事重提：大学生“AI+信息素养”大赛参赛微记
 date: 2026-04-18
 authors: 林林
-excerpt: 记录一下去年参加“AI+信息素养”大赛的过程，权当是水一篇文章。
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=1230'
 slug: /a-micro-journal-of-my-participation-in-the-university-student-ai-information-literacy-competition/
-categories:
-    - 技术与研究
-tags:
-    - 信息素养
-    - 比赛
-format: false
 ---
 
 这个是去年的事情了，之所以现在写是因为没什么东西写了，星火杯比赛的东西写成博客了，要不把这个信息素养大赛的经历也写一下，就当是做个记录了。之所以叫“微记”，是因为前一篇小记实在长，相比之下这一篇就短太多了，此外这一篇也没有什么技术含量，小下面轮到微了。

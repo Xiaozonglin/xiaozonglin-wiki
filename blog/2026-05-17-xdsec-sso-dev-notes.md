@@ -1,18 +1,8 @@
 ---
-id: 1402
 title: '「进行中」XDSec SSO开发小记'
 date: 2026-05-17
 authors: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=1402'
 slug: /xdsec-sso-dev-notes/
-categories:
-    - 开发
-tags:
-    - 开发
-    - 项目
-format: false
 ---
 
 因为信安协会原本的SSO改用户信息比较麻烦，协会的周报系统和论坛两个系统打通的任务从很早以前咕到现在，重新开发一版SSO的任务就这样提上日程。这也算是我第二个项目？

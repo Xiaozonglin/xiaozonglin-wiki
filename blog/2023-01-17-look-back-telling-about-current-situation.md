@@ -3,8 +3,6 @@ title: 三年前的回忆与近况
 date: 2023-01-17
 authors: 林林
 slug: /look-back-telling-about-current-situation/
-categories:
-    - 生活
 ---
 
 《乡土中国》中的《再论文字下乡》有这么一段话：

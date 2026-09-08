@@ -1,19 +1,8 @@
 ---
-id: 983
 title: 都市天际线2：通过优化设计路网解决拥堵
 date: 2026-02-26
 authors: 林林
-excerpt: 摒弃简单的道路拓宽方法，通过采用“高速公路-主干道-次干道-小区网格”的分级路网设计，并结合地铁系统和公交环线，有效提升交通流畅度。
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=983'
 slug: /solves-congestion-by-optimizing-road-network-design/
-ppma_authors_name:
-    - 林林
-categories:
-    - 生活
-tags:
-    - 折腾
-format: false
 ---
 
 《都市天际线2》这款游戏我玩了大概半年，游戏平台上显示我玩了五百多个小时，玩通了两次（指的是达到最终的里程碑）。这款游戏的体验比较好，我在里面喜欢静静看着十字路口的车流发呆。

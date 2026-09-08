@@ -1,21 +1,8 @@
 ---
-id: 789
 title: 云上
 date: 2026-02-07
 authors: 林林
-excerpt: 短聚，长离。
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=789'
 slug: /over-the-cloud/
-footnotes:
-    - ''
-enclosure:
-    - "https://www.xiaozonglin.cn/wp-content/uploads/2026/02/蒼鈺Danielle-归途有风-《万里归途》电影主题曲.mp3\n5257065\naudio/mpeg\n"
-ppma_authors_name:
-    - 林林
-categories:
-    - 日志
-format: false
 ---
 
 <figure class="wp-block-audio aligncenter"><audio controls="" src="/wp-content/uploads/2026/02/蒼鈺Danielle-归途有风-《万里归途》电影主题曲.mp3"></audio><figcaption class="wp-element-caption">建议配合听蒼鈺Danielle翻唱的《归途有风》</figcaption></figure><figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/02/IMG_20250822_211410-768x1024.jpg)<figcaption class="wp-element-caption">晚上从飞机上看</figcaption></figure>此前来西安坐的是傍晚的飞机，飞在空中只能看到地面上的灯光，灯光连成一条一条路。有些城市像是依山而建，有些城市则从中心向四周放射状伸展。

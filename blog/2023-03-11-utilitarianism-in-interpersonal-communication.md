@@ -3,11 +3,6 @@ title: 从“然后呢”谈功利性的人际交往
 date: 2023-03-11
 authors: 林林
 slug: /utilitarianism-in-interpersonal-communication/
-categories:
-    - 生活
-tags:
-    - 人际交往
-    - 杂谈
 ---
 
 在前面我们谈到了线上交往的局限性（详见 [/terrible-online-chatting/](/terrible-online-chatting/) ），在此，我们来谈论一下功利性的人际交往。试看下面一段对话：

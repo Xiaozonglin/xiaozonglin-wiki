@@ -3,8 +3,6 @@ title: 夜间闲想
 date: 2023-09-24
 authors: 林林
 slug: /think-in-my-free-time/
-categories:
-    - 沉思
 ---
 
 如果每个人的心中有一盏灯，那么世界将不会黑暗。

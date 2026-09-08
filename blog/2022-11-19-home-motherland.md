@@ -3,11 +3,6 @@ title: 家
 date: 2022-11-19
 authors: 林林
 slug: /home-motherland/
-categories:
-    - 生活
-tags:
-    - 杂谈
-    - 自我
 ---
 
 <audio controls="" src="/wp-content/uploads/2022/11/陈致逸HOYO-MiX-Midday-Prospects-午日的眺望.mp3"></audio>

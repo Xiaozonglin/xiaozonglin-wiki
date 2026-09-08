@@ -3,11 +3,6 @@ title: 关于辞去“开往友链接力”项目维护组负责人的辞呈
 date: 2026-02-03
 authors: 林林
 slug: /resignation-from-the-position-of-maintenance-team-lead-of-the-travellings-project/
-categories:
-    - 日志
-tags:
-    - 开往
-    - 开往友链接力
 ---
 
 亲爱的开往项目社区，  

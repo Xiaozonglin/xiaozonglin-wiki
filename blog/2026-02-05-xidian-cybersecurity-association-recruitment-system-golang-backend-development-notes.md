@@ -3,14 +3,6 @@ title: '西电信安协会招新系统 Golang 后端开发小记'
 date: 2026-02-05
 authors: 林林
 slug: /xidian-cybersecurity-association-recruitment-system-golang-backend-development-notes/
-categories:
-    - 开发
-tags:
-    - Gin
-    - Golang
-    - Gorm
-    - 后端
-    - 开发
 ---
 
 大概是，今年 1 月份与协会的 CopperKoi 同学把协会的招新系统重新做了一版。CopperKoi 用 Vite 写前端，他和我用 Golang 写后端。后端用 gin 处理请求，用 gorm 对接数据库。文章到这里就结束了。

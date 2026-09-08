@@ -3,11 +3,6 @@ title: 静与自我
 date: 2022-10-29
 authors: 林林
 slug: /silence-myself/
-categories:
-    - 生活
-tags:
-    - 杂谈
-    - 自我
 ---
 
 ```

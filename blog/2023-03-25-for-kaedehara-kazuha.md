@@ -3,11 +3,6 @@ title: 你是风
 date: 2023-03-25
 authors: 林林
 slug: /for-kaedehara-kazuha/
-categories:
-    - 生活
-tags:
-    - 原神
-    - 杂谈
 ---
 
 **红叶从树随风飘落，故作枫。**

@@ -3,11 +3,6 @@ title: 上图书馆
 date: 2023-09-02
 authors: 林林
 slug: /entering-the-library/
-categories:
-    - 日志
-tags:
-    - 图书馆
-    - 故事
 ---
 
 

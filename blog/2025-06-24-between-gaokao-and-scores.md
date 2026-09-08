@@ -3,10 +3,6 @@ title: 高考之后，出分之前（已经录取版）
 date: 2025-06-24
 authors: 林林
 slug: /between-gaokao-and-scores/
-ppma_authors_name:
-    - 林林
-categories:
-    - 日志
 ---
 
 618买了一个笔记本，现在对着笔记本的屏幕写这篇博文。今天中午，我就可以在省考试院上查到自己的高考成绩。  

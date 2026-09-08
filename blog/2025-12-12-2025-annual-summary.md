@@ -3,11 +3,6 @@ title: 2025年终总结
 date: 2025-12-12
 authors: 林林
 slug: /2025-annual-summary/
-categories:
-    - 日志
-tags:
-    - '2025'
-    - 年终总结
 ---
 
 ![](/wp-content/uploads/2025/12/IMG_20251231_153853-768x1024.jpg)

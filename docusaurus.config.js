@@ -61,15 +61,12 @@ const config = {
             'https://github.com/Xiaozonglin/xiaozonglin-wiki/tree/main/',
         },
         blog: {
+          postsPerPage: 'ALL',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Xiaozonglin/xiaozonglin-wiki/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'ignore',
           onInlineAuthors: 'ignore',

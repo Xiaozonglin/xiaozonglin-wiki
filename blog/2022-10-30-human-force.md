@@ -4,11 +4,6 @@ date: 2022-10-30
 authors: 林林
 guid: 'https://www.xiaozonglin.cn/?p=22'
 slug: /human-force/
-categories:
-    - 生活
-tags:
-    - 杂谈
-format: false
 ---
 
 人是什么？要说人会直立行走，那受训练的猴子也行；要说人会思考，那受训练的黑猩猩也行；要说人会说话，那受训练的鹦鹉也会使用人类的语言。现在要说人是什么，可以说人什么也不是。

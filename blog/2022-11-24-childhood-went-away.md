@@ -3,8 +3,6 @@ title: 童年与生活
 date: 2022-11-24
 authors: 林林
 slug: /childhood-went-away/
-categories:
-    - 生活
 ---
 
 <audio controls="" src="/wp-content/uploads/2022/11/陈致逸HOYO-MiX-Say-My-Name-直面.mp3"></audio>

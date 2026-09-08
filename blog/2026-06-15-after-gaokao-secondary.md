@@ -1,18 +1,8 @@
 ---
-id: 1461
 title: 高考之后（贰）
 date: 2026-06-15
 authors: 林林
-excerpt: ''
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=1461'
 slug: /after-gaokao-secondary/
-categories:
-    - 生活
-tags:
-    - 随笔
-    - 高考
-format: false
 ---
 
 <figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/06/3375eee9ec2e37774dfb738e923cddc7-1024x768.jpg)<figcaption class="wp-element-caption">西电礼仪广场</figcaption></figure>西安的天逐渐热了起来，太阳大，云少，空气都是热的。相比于福建的桑拿天，貌似这里的天气比较好。前段时间没了解过我们宿舍门口的小卖部有没有冰淇淋，于是常骑自行车去老综合楼的蜜雪冰城买圣代吃。前些天知道小卖部有卖方糕了，便开始每天吃一个方糕。

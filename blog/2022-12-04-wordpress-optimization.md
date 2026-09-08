@@ -3,10 +3,6 @@ title: WordPress网站优化
 date: 2022-12-04
 authors: 林林
 slug: /wordpress-optimization/
-categories:
-    - 网站
-tags:
-    - wordpress
 ---
 
 26年春节接着这篇文章的话题接着优化，详见 [新年新气象：网站快一点，再快一点 - 林林杂语](/be-faster-even-faster/) 。

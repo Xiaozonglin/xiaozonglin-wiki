@@ -1,18 +1,8 @@
 ---
-id: 1390
 title: 试驳友谊之传递链
 date: 2026-05-13
 authors: 林林
-excerpt: 传递链找不来真朋友，圈子也不解放人。
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=1390'
 slug: /challenge-the-chain-of-friendship-transmission/
-categories:
-    - 沉思
-tags:
-    - 朋友
-    - 杂谈
-format: false
 ---
 
 每当我遇到生活上的困惑时，我都会打开《人生哲思录》看看周先生写过的文字。之前几次对朋友感到困惑，于是几次翻开这本书。如今，朋友这个词再一次让我感到困惑，我也就再翻起这本书。

@@ -3,12 +3,6 @@ title: 也谈读书
 date: 2023-03-11
 authors: 林林
 slug: /along-talking-about-reading/
-categories:
-    - 生活
-tags:
-    - 学习
-    - 杂谈
-    - 阅读
 ---
 
 **谨以此文，谈谈在语文课堂上讨论过的阅读的见解。**

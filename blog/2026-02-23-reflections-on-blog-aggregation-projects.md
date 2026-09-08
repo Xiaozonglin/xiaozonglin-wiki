@@ -1,23 +1,8 @@
 ---
-id: 972
 title: 博客聚合有感
 date: 2026-02-23
 authors: 林林
-excerpt: 对我来说，我平时逛逛开往，给博客发一点评论，欣赏欣赏别人的文章，这是开往于我的意义。
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=972'
 slug: /reflections-on-blog-aggregation-projects/
-footnotes:
-    - '[{"content":"「你项」是我当时说的玩笑话，如今看来并不合适","id":"c000bc7d-61fc-426c-bb0f-29cf0a677def"}]'
-ppma_authors_name:
-    - 林林
-categories:
-    - 沉思
-tags:
-    - 开往
-    - 开往友链接力
-    - 记录
-format: false
 ---
 
 我辞去开往维护组负责人的文章一经发出，Blogsclub的创始人便邀请我前去参加维护，盛情难却，如今也[在 Blogsclub 上挂了名](https://www.blogsclub.org/staff.html)。几年以来，与十年之约、开往、中文博客列表导航和 Blogsclub 打交道多了，有些话，收集起来发在这里，与君共勉。

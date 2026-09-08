@@ -3,8 +3,6 @@ title: 试谈中国载人航天过程中的困难与解决方案
 date: 2023-02-12
 authors: 林林
 slug: /difficulties-and-solutions-in-china-s-manned-space-flight/
-categories:
-    - 技术与研究
 ---
 
 **这原本是物理的寒假作业，因为在班级里过于落后，允许展示。**

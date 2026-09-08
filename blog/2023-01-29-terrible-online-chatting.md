@@ -3,10 +3,6 @@ title: 糟糕的网上聊天
 date: 2023-01-29
 authors: 林林
 slug: /terrible-online-chatting/
-categories:
-    - 生活
-tags:
-    - 杂谈
 ---
 
 首先要承认的一件事情就是，我的网上聊天技能非常的糟糕，聊一会儿就能把聊天的氛围搞尬，然后双方都不想聊下去了。

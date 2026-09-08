@@ -3,12 +3,6 @@ title: 一些过往的平常的回忆
 date: 2025-04-19
 authors: 林林
 slug: /some-normal-memory-when-i-was-young/
-categories:
-    - 日志
-tags:
-    - 怀旧
-    - 母亲
-    - 父亲
 ---
 
 这是很早以前计划发的文章，可能是图片转文字太麻烦，或者打字一个个打太费劲，拖到今天才发。这段原先写在学校的作业纸上，今晚用Deepseek图片转文字，发现对我原先的语句做了修改，校对了一遍，有些改了回去。

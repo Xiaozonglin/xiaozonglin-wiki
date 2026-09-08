@@ -1,18 +1,8 @@
 ---
-id: 1306
 title: 五一假期：南京之行
 date: 2026-05-05
 authors: 林林
-excerpt: 游玩南京，拍了一些照片。
-layout: post
-guid: 'https://www.xiaozonglin.cn/?p=1306'
 slug: /labor-day-nanjing-tour/
-categories:
-    - 生活
-tags:
-    - 南京
-    - 旅行
-format: false
 ---
 
 去年国庆节没出去玩，清明假期短，五一刚刚好。原本想着回一趟家，毕竟在学校待了两个月了，但没约到火车票。不回去了，改成旅游。去北京，但北京的朋友说那边挤，不推荐去。去成都吧，成都的同学不愿意出门。去长沙吧，没有什么时间点不错的车票。南京算是一个还行的选择。

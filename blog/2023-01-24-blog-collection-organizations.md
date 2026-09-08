@@ -3,10 +3,6 @@ title: 博客聚合项目盘点
 date: 2023-01-24
 authors: 林林
 slug: /blog-collection-organizations/
-ppma_authors_name:
-    - 林林
-categories:
-    - 网站
 ---
 
 推荐阅读：[谈谈几个博客聚合网站，以及个人推荐](https://zhengduo.wordpress.com/2022/12/09/zh-blogs-site-link/)
