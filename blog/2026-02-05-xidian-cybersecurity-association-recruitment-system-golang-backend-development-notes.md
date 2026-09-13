@@ -51,7 +51,7 @@ Golang 写完之后可以直接部署成二进制文件，这一点比 Python �
 
 ai 的幻觉（幸好我略微熟悉代码）
 
-**密码怎么传输？**我原本以为在后端 bcrypt 的基础上前端用 sha256 加密之后传输会安全一点，并且将这个设计补充到文档里。但当我问 Deepseek 时，它给出了不同的意见（[聊天链接](https://chat.deepseek.com/share/olhh5465joyqd6rbf8)）。“sha256 碰撞都来了。”CopperKoi 经过一番研究之后采用了 Deepseek 的建议，传输明文密码，传输过程中的安全由 https 来保障。
+**密码怎么传输？** 我原本以为在后端 bcrypt 的基础上前端用 sha256 加密之后传输会安全一点，并且将这个设计补充到文档里。但当我问 Deepseek 时，它给出了不同的意见（[聊天链接](https://chat.deepseek.com/share/olhh5465joyqd6rbf8)）。“sha256 碰撞都来了。”CopperKoi 经过一番研究之后采用了 Deepseek 的建议，传输明文密码，传输过程中的安全由 https 来保障。
 
 没过几天，CopperKoi 的前端也写好了。测试的时候公告的置顶接口出现了一个很奇妙的问题。
 

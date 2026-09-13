@@ -33,7 +33,9 @@ slug: /xdsec-sso-dev-notes/
 
 我之前在设计TOTP验证流程的时候注意过，腾讯云和Cloudflare的登录验证都是单独腾出一个页面来弄。尝试看看他们怎么处理这个流程的，可惜我网页逆向水平太差，看不懂，只能从网络Tab里捕风捉影。大概猜了一个这个。
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2026/05/a87038a65984b309686a28aa2898904b.png)</figure>但是感觉这样还要生成一个token给前端太麻烦了，于是改了一下——让前端先看看需不需要TOTP，再把TOTP、用户名、密码一块返回给后端，也就是上一节的那个接口对应的方案。
+![](/wp-content/uploads/2026/05/a87038a65984b309686a28aa2898904b.png)
+
+但是感觉这样还要生成一个token给前端太麻烦了，于是改了一下——让前端先看看需不需要TOTP，再把TOTP、用户名、密码一块返回给后端，也就是上一节的那个接口对应的方案。
 
 > emmmm  
 > 很有想法（  
@@ -47,6 +49,10 @@ slug: /xdsec-sso-dev-notes/
 
 然后他分享了一个非常美的设计。
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2026/05/image-2.png)<figcaption class="wp-element-caption">jwt不应该存在cookie里，这样前端拿不到，应该作为接口返回值给前端存本地存储里</figcaption></figure>> 可以把totp登录态直接放在jwt字段里。这样前端拿到jwt一解，发现totp未登录，就继续要求totp验证。验证之后，服务器重新签发一个totp已登录的jwt。两套系统就合一起了，不用维护两拨token。服务端解码jwt发现totp开启并且未登录的时候直接视为整个未登录就好了。
+![](/wp-content/uploads/2026/05/image-2.png)
+
+jwt不应该存在cookie里，这样前端拿不到，应该作为接口返回值给前端存本地存储里
+
+> 可以把totp登录态直接放在jwt字段里。这样前端拿到jwt一解，发现totp未登录，就继续要求totp验证。验证之后，服务器重新签发一个totp已登录的jwt。两套系统就合一起了，不用维护两拨token。服务端解码jwt发现totp开启并且未登录的时候直接视为整个未登录就好了。
 
 这个设计实在优雅，把两套token合在一起，还让totp的验证流程更简洁了。

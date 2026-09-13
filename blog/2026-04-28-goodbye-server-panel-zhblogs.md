@@ -78,7 +78,7 @@ source ~/.bashrc
 
 ![](/wp-content/uploads/2026/04/image-7.png)
 
-4 月 30 日，因为我的能力实在堪忧，这些任务重新由沐云来做。于是就有 [再见面板：Debian构建WordPress - 林林杂语](/build-wordpress-with-pure-commandline/) 这一篇的故事了。
+4 月 30 日，因为我的能力实在堪忧，这些任务重新由沐云来做。于是就有 [再见面板：Debian构建WordPress - 林林杂语](./2026-04-30-build-wordpress-with-pure-commandline.md) 这一篇的故事了。
 
 **附录**
 

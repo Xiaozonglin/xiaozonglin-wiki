@@ -32,13 +32,13 @@ slug: /spark-bei-participate-small-ji/
 
 通过我们的观察，大学的课堂教学过程中存在一些问题，例如：
 
-[![](/wp-content/uploads/2026/03/image.png)](/wp-content/uploads/2026/03/image.png)
+![](/wp-content/uploads/2026/03/image.png)
 
-[![](/wp-content/uploads/2026/03/image-1.png)](/wp-content/uploads/2026/03/image-1.png)
+![](/wp-content/uploads/2026/03/image-1.png)
 
-[![](/wp-content/uploads/2026/03/image-2.png)](/wp-content/uploads/2026/03/image-2.png)
+![](/wp-content/uploads/2026/03/image-2.png)
 
-[![](/wp-content/uploads/2026/03/image-3.png)](/wp-content/uploads/2026/03/image-3.png)
+![](/wp-content/uploads/2026/03/image-3.png)
 
 从“教、学、管、评”四个角度对教学过程问题的分析（点击图片可跳转到图片文件）
 

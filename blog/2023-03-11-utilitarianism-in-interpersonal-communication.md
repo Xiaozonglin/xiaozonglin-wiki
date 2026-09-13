@@ -5,7 +5,7 @@ authors: 林林
 slug: /utilitarianism-in-interpersonal-communication/
 ---
 
-在前面我们谈到了线上交往的局限性（详见 [/terrible-online-chatting/](/terrible-online-chatting/) ），在此，我们来谈论一下功利性的人际交往。试看下面一段对话：
+在前面我们谈到了线上交往的局限性（详见 [/terrible-online-chatting/](./2023-01-29-terrible-online-chatting.md) ），在此，我们来谈论一下功利性的人际交往。试看下面一段对话：
 
 > 老师，我读完《三体》了。  
 > 然后呢？  
