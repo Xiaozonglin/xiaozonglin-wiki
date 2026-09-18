@@ -23,11 +23,11 @@ date: 2022-11-05
 
 **XDWe：驱动教学相长的AI智能学习助手** 负责人 & 后端开发 2026.03-至今
 
-[星火杯参赛小记：XDWe——驱动教学相长的AI智能学习助手 - 林林杂语](../../blog/2026-03-29-spark-bei-participate-small-ji.md)
+[星火杯参赛小记：XDWe——驱动教学相长的AI智能学习助手 - 林林杂语](/blog/spark-bei-participate-small-ji)
 
 **西电信安协会招新系统** 后端开发 2026.01.16-2026.01.30
 
-[西电信安协会招新系统 Golang 后端开发小记 - 林林杂语](../../blog/2026-02-05-xidian-cybersecurity-association-recruitment-system-golang-backend-development-notes.md)
+[西电信安协会招新系统 Golang 后端开发小记 - 林林杂语](/blog/xidian-cybersecurity-association-recruitment-system-golang-backend-development-notes)
 
 **西电信安协会统一身份验证系统** 后端开发 2026.05.05-至今
 
