@@ -179,8 +179,8 @@ $$
 | nc | 0000000f |
 
 $$
-A_1 = \text{admin} : \text{secret-path} : \text{123456} \\
-A_2 = \text{GET} : \text{/admin} \\
+A_1 = admin : secret-path : 123456 \\
+A_2 = GET : /admin \\
 $$
 
 A1哈希得到`05a6b7c3154d30026f5009344ec192ab`，A2哈希得到`0b039339067eeaeff93a7d25514492d1`。
