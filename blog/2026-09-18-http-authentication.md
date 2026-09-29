@@ -1,7 +1,7 @@
 ---
 title: '谈谈认证'
 date: 2026-09-18
-authors: 林林
+authors: [林林, CopperKoi]
 slug: /http-authentication/
 ---
 
@@ -421,7 +421,16 @@ TotalMilliseconds : 77.0263
 
 除此之外，jwt payload并没有加密，所以不能把一些敏感信息放到jwt中。
 
-jwt在应用的过程中有很多漏洞，比如`alg=none`和加密算法混淆等，对应的也有很多的利用方法。可以阅读[Burpsuite靶场-JWT漏洞原理总结及复现](https://luaihua.github.io/2026/06/06/Burpsuite%E9%9D%B6%E5%9C%BA-JWT%E6%BC%8F%E6%B4%9E%E5%8E%9F%E7%90%86%E6%80%BB%E7%BB%93%E5%8F%8A%E5%A4%8D%E7%8E%B0/index.html)这篇文章了解。后续再对jwt有关的漏洞进行整理，这里暂不赘述。
+jwt在应用的过程中有很多漏洞，比如`alg=none`和加密算法混淆等，对应的也有很多的利用方法。可以阅读[Burpsuite靶场-JWT漏洞原理总结及复现](https://luaihua.github.io/2026/06/06/Burpsuite%E9%9D%B6%E5%9C%BA-JWT%E6%BC%8F%E6%B4%9E%E5%8E%9F%E7%90%86%E6%80%BB%E7%BB%93%E5%8F%8A%E5%A4%8D%E7%8E%B0/index.html)这篇文章了解。
+
+对此，我问了一下在研究攻防的CopperKoi同学。他补充了JWT在攻防中主要就是跨站、爆破和伪造。
+
+- 使用`jwt_tool`这一个工具，可以很方便地对一些jwt进行攻击。
+- [Attack Methodology](https://github.com/ticarpi/jwt_tool/wiki/Attack-Methodology)介绍了JWT攻击的方法论。
+- [Keys to JWT Assessments - From a Cheat Sheet to a Deep Dive](https://trustedsec.com/blog/keys-to-jwt-assessments-from-a-cheat-sheet-to-a-deep-dive)
+- [pac4j Vulnerability CVE-2026-29000: JWT Auth Bypass](https://codeant.ai/blogs/pac4j-vulnerability-cve-2026-29000)
+
+在session cookie中，我们想要吊销某个session非常容易，在服务器中将session标记为删除（不物理删除，便于审计）即可。但JWT并没有这种机制。如果将JWT存进数据库，维护状态的话，那跟session cookie除了可读性之外就没差别了。[这篇文章](https://zhuanlan.zhihu.com/p/451813549)提供了黑名单和白名单两种方法，黑名单就是将被吊销的JWT存进Redis之类的数据库中，每次校验JWT时查一下数据库。
 
 ## TOTP
 
@@ -462,9 +471,11 @@ else:
    print("Invalid")
 ```
 
+TOTP本身貌似没有什么值得提的攻击方式。有的就是30秒内TOTP可以重用（CVE-2025-6014、CVE-2026-57574）这种有些局限的漏洞，或者加密算法可预测这些。
+
 ## OAuth / OpenID Connect（OIDC）
 
-to be written
+认证（authentication）和授权（authorization）是两个不同的过程，认证负责认出“你是谁”，而授权负责找出“你能做什么”。前面我们提到的JWT、session cookie等常把认证和授权合并在一起（比如将权限信息写在JWT里等等），我们不需要严格区分。但到这里，我们需要区分这两个过程。
 
 ## WebAuthn
 

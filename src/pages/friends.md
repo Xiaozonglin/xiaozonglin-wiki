@@ -20,13 +20,13 @@ date: 2023-01-18
 - **[威言威语](https://www.weisay.com/blog/)** 一个女孩的父亲和他的网站
 - **[RIVALSA网络空间](https://main.rivalsa.net/)** 这位的微博客已经好久没有更新了
 - **[涓滴意念汇成河](https://www.zahui.top/)** 作者也是博览群书了
-- [**Chlorine**](https://chlo.is/) 氯，单质具有极强的氧化性，和钠化合反倒成为温和的盐
-- [**HamCQ社区**](https://forum.hamcq.cn/) 一个业余无线电爱好者的论坛
-- [**Restent Ou**](https://www.gxres.net/) 于峡谷中呐喊
+- **[Chlorine](https://chlo.is/)** 氯，单质具有极强的氧化性，和钠化合反倒成为温和的盐
+- **[HamCQ社区](https://forum.hamcq.cn/)** 一个业余无线电爱好者的论坛
+- **[Restent Ou](https://www.gxres.net/)** 于峡谷中呐喊
 - **[ImQi1](https://imqi1.com/)** 我从网站中感受到强烈的美感
 - **[Lanke's Blog](https://www.blueke.top/)** 技术类文章不懂，生活类文章我还不会评论吗
 - **[土木坛子](https://tumutanzi.com/)** 严谨对待博客的大学教授
-- [**菲兹克斯喵**](https://physnya.top) physnya = Physics + Nya
+- **[菲兹克斯喵](https://physnya.top)** physnya = Physics + Nya
 - **[夜海行舟](https://brocalife.com/)** 在情绪之海上航行，博客即是航行日志
 - **[墨希](https://note.moxiify.cn/)** 一个同龄人的开发、生活日志
 - **[咖啡豆子](https://blog.kfdzcoffee.cn/)** 会长辛苦了，为同学们服务！
@@ -35,3 +35,6 @@ date: 2023-01-18
 - **[Potatowo](https://blog.potatowo.top/)** 福大 Web 大手子
 - **[秋风于渭水](https://www.tjsky.net/)**
 - **[晓蓝](https://blog.002.hk/)**
+- **[Reverier](https://www.woooo.tech/zh-cn/)**
+- **[fifker](https://blog.f1fk3r.top/)**
+- **[Frank](https://blog.frankli.site/)**
