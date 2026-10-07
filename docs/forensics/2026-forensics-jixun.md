@@ -1,4 +1,4 @@
-# 2026取证集训——美亚25个人赛
+# 2026国庆取证集训——美亚25个人赛
 
 ## 陈民浩的手机
 
@@ -233,51 +233,50 @@ hellowanchai
 
 分析-图片-应用里找
 
-### ==31 曾经以空投(AirDrop)方式成功传送了文件到另外一个装置, 以下哪一个陈述是正确的==
-
-- A.传送了一个图片文件
-- B.传送了两个图片文件
-- C.传送了一个图片文件及一个文件
-- D.传送了一个图片文件及两个文件
-
-在该检材的文件系统中全局搜索
-
-```
-com.apple.UIKit.activity.AirDrop
-com.apple.sharingd
-com.apple.mobilesildeshow
-com.apple.documentsapp
-```
-
-这些包名从上到下分别是:
-
-- AirDrop 前端
-- AirDrop 后端
-- 照片
-- 文档
-
-### 32 原生 APP "相片"中, 有一个图片文件曾经通过空投"AirDrop"方式成功传送, 指出这个图片文件的文件全名
-
-### 33 承上题, 请写出这个图片文件的开始传送的日期及时间
-
-### 34 请指出哪一个多媒体文件同时储存在 APP "文件"(套件识别码: com.apple.DocumentsApp)及 APP "照片"(套件识别码: com.apple.mobileslideshow)中
-
 ### 35 请指出在 APP "照片"中的图片文件"IMG_0079.JPG"是由哪一个 APP 拍摄
 
-### 36 承上题, 已知该图片文件是由上述 APP 所拍摄, 并其后储存在 APP "照片"成"IMG_0079.JPG", 请问该图片的原文件名称
+Discreet
+
+跟前面查看照片由哪个应用拍摄的方法相同
+
+### ==36 承上题, 已知该图片文件是由上述 APP 所拍摄, 并其后储存在 APP "照片"成"IMG_0079.JPG", 请问该图片的原文件名称==
+
+分析-其他应用（这个分析在耗时里面，之前没运行）-com.uazoo.ssc里可以找到该图片
+
+DiscreetCameraApp_1744790959352.png
 
 ### 37 承上题, 请指出原文件的建立时间
 
-### 38 请指出在 APP "照片"中, 储存多媒体文件"IMG_0014.MOV"与储存"IMG_0016.MOV"之间有没有其他多媒体文件储存到 APP "照片"中
+2025-04-16 16:09:19
+
+### ==38 请指出在 APP "照片"中, 储存多媒体文件"IMG_0014.MOV"与储存"IMG_0016.MOV"之间有没有其他多媒体文件储存到 APP "照片"中==
+
+- A.有
+- B.没有
+- C.有拍摄，但没有储存
+- D.无法确认
+
+B
+
+在ZASSET表当中IMG_0014.MOV和IMG_0016.MOV的Z_PK是连续的。
 
 ### 39 承上题, 以下哪个陈述是正确描述上一题的答案
 
-### 40 APP "照片"中, "IMG_0027.HEIC"的原地理位置信息(WGS84)是
+- A.制作多媒体文件"IMG_0015.MOV", 直接储存到隐藏相册中
+- B.制作多媒体文件"IMG_0015.MOV"时, 直接上传到 iCloud
+- C.制作多媒体文件"IMG_0014.MOV"时用了缩时摄影
+- D.制作多媒体文件"IMG_0015.MOV"时名称被更改为"IMG_0016.MOV"
+
+IMG_0014.MOV在分析-基本信息-视频中可以看到确实使用了缩时摄影。
+
+### ==40 APP "照片"中, "IMG_0027.HEIC"的原地理位置信息(WGS84)是==
 
 - A.(22.2816569, 114.1756115)
 - B.(22.2826366666667, 114.168503333333)
 - C.(22.2826216666667, 114.168525)
 - D.(22.2826216666667, 114.168503333333)
+
+纬度 22.281657 经度114.175612
 
 ### 41 曾经通过网络浏览器 Safari 下载了多少个图片文件
 
@@ -298,11 +297,28 @@ com.apple.documentsapp
 
 ### 47 请指出即时通讯软件 WeChat 的 WeChat ID
 
-### 48 承上题, 这个 WeChat ID 关注了多少个视频号
+wxid_c9xyspglub7512
+
+### ==48 承上题, 这个 WeChat ID 关注了多少个视频号==
+
+120
+
+上面的120是缓存的视频号信息，关注状态在`/var/mobile/Applications/com.tencent.xin/Documents/5f1d6cc9474fbbc2fb3dc807008543d5/finder/db/finder_main.db`找followState
 
 ### 49 请指出即时通讯软件 WhatsApp 的 WhatsApp  ID
 
+85254974406@s.whatsapp.net
+
 ### 50 即时通讯软件 WhatsApp 中, 封存了下列哪个聊天群？
+
+- A.凤凰VIP会员心得交流群
+- B.币淘 群组1
+- C.Sportsmen
+- D.Titus Wong Manson Finance
+
+A
+
+在`/var/mobile/Applications/group.net.whatsapp.WhatsApp.shared/ChatStorage.sqlite`中该群组的Archive字段为1
 
 ### 51 即时通讯软件 WhatsApp 中, 总共追踪了多少个频道
 
