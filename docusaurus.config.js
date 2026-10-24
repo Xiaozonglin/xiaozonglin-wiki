@@ -36,12 +36,15 @@ const config = {
   onBrokenLinks: 'warn',
 
   markdown: {
+    mermaid: true,
     hooks: {
       onBrokenMarkdownImages: 'ignore'
     }
   },
   // 忽略MDX解析错误
   onBrokenMarkdownLinks: 'ignore',
+
+  themes: ['@docusaurus/theme-mermaid'],
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -171,6 +174,12 @@ const config = {
         searchParameters: {},
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',
+      },
+      mermaid: {
+        options: {
+          maxTextSize: 50,
+        },
+        theme: { light: 'neutral', dark: 'forest' },
       },
     }),
 
