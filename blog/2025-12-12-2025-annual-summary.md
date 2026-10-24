@@ -25,7 +25,7 @@ slug: /2025-annual-summary/
 
 参加了院辩论队的面试，一面跟学长聊辩题，二面打一场比赛。参加了宏辞新生赛的其中一场。参加了辩论队的一次团建，一起玩狼人杀，这是到了大学唯二跟别的同学一起笑。
 
-![](/wp-content/uploads/2025/12/a61592393ede469ba0de7f573bcaa8fa-2.jpg)
+![](/wp-content/uploads/2025/12/a61592393ede469ba0de7f573bcaa8fa.jpg)
 
 在宏辞新生辩论赛上
 
