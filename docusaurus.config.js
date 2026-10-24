@@ -33,22 +33,12 @@ const config = {
   organizationName: 'Xiaozonglin', // Usually your GitHub org/user name.
   projectName: 'xiaozonglin-wiki', // Usually your repo name.
 
-  onBrokenLinks: 'warn',
-
   markdown: {
-    mermaid: true,
-    hooks: {
-      onBrokenMarkdownImages: 'ignore'
-    }
+    mermaid: true
   },
-  // 忽略MDX解析错误
-  onBrokenMarkdownLinks: 'ignore',
 
   themes: ['@docusaurus/theme-mermaid'],
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'zh-Hans',
     locales: ['zh-Hans'],
@@ -63,10 +53,7 @@ const config = {
           sidebarPath: './sidebars.js',
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Xiaozonglin/xiaozonglin-wiki/tree/main/',
+
         },
         blog: {
           blogTitle: '林林杂语',
@@ -79,11 +66,6 @@ const config = {
 
           blogSidebarCount: 'ALL',
           blogSidebarTitle: '以往文章',
-
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'ignore',
-          onInlineAuthors: 'ignore',
-          onUntruncatedBlogPosts: 'ignore',
 
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
