@@ -158,9 +158,6 @@ const config = {
         searchPagePath: 'search',
       },
       mermaid: {
-        options: {
-          maxTextSize: 50,
-        },
         theme: { light: 'neutral', dark: 'forest' },
       },
     }),
