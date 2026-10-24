@@ -25,7 +25,7 @@ slug: /a-micro-journal-of-my-participation-in-the-university-student-ai-informat
 
 <figure class="wp-block-image aligncenter size-large">![](/wp-content/uploads/2026/04/image.png)<figcaption class="wp-element-caption">案例介绍视频开头</figcaption></figure>队长将材料交上去后，得了奖。我的“关于我”就多了这样一行。
 
-<figure class="wp-block-image aligncenter size-full is-resized">![](/wp-content/uploads/2026/04/image-1.png)<figcaption class="wp-element-caption">所获奖项多了一行</figcaption></figure>我们省赛的微信群到现在还没有解散，两位学长非常的厉害，我[星火杯](/spark-bei-participate-small-ji/)的时候还向两位学长寻求经验。
+<figure class="wp-block-image aligncenter size-full is-resized">![](/wp-content/uploads/2026/04/image-1.png)<figcaption class="wp-element-caption">所获奖项多了一行</figcaption></figure>我们省赛的微信群到现在还没有解散，两位学长非常的厉害，我[星火杯](./2026-03-29-spark-bei-participate-small-ji.md)的时候还向两位学长寻求经验。
 
 **附录**  
 以下为本次大赛过程的材料。有需要的同学可自行下载，仅供个人学习参考。请勿二次传播、转载或用于任何商业/竞赛直接提交用途。  

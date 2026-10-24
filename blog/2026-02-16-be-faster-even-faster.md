@@ -5,7 +5,7 @@ authors: 林林
 slug: /be-faster-even-faster/
 ---
 
-WordPress 如果没有缓存，就会加载得超级慢。此前，我在网站上装了 Jetpack Boost、WP Super Cache 等插件。昨晚看到 [此前发的文章](/wordpress-optimization/)，发现还能装一个 Redis Object Cache。
+WordPress 如果没有缓存，就会加载得超级慢。此前，我在网站上装了 Jetpack Boost、WP Super Cache 等插件。昨晚看到 [此前发的文章](./2022-12-04-wordpress-optimization.md)，发现还能装一个 Redis Object Cache。
 
 插件装得越来越多，我问 ChatGPT 有没有必要装这么多插件，它向我推荐了一种方案。如今，网站的访问速度基本得到了改善。秒开估计还是有些困难。
 
