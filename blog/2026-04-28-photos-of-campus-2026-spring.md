@@ -17,7 +17,7 @@ slug: /photos-of-campus-2026-spring/
 
 ![](/wp-content/uploads/2026/04/IMG_20260423_232441.jpg "猫学长进宿舍")
 
-![](/wp-content/uploads/2026/04/IMG_20260425_190236-scaled.jpg "划过天际")
+![](/wp-content/uploads/2026/04/IMG_20260425_190236.jpg "划过天际")
 
 ![](/wp-content/uploads/2026/04/IMG_20260315_123202.jpg "西安十字路口")
 
@@ -27,7 +27,7 @@ slug: /photos-of-campus-2026-spring/
 
 ![](/wp-content/uploads/2026/04/IMG_20260422_165711.jpg "网安大楼内部")
 
-![](/wp-content/uploads/2026/04/IMG_20260311_160101-scaled.jpg "电脑桌面")
+![](/wp-content/uploads/2026/04/IMG_20260311_160101.jpg "电脑桌面")
 
 ![](/wp-content/uploads/2026/04/IMG_20260422_110339.jpg "期中考试后")
 
