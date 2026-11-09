@@ -30,11 +30,12 @@ date: 2023-01-18
 - **[夜海行舟](https://brocalife.com/)** 在情绪之海上航行，博客即是航行日志
 - **[墨希](https://note.moxiify.cn/)** 一个同龄人的开发、生活日志
 - **[咖啡豆子](https://blog.kfdzcoffee.cn/)** 会长辛苦了，为同学们服务！
-- **[CopperKoi](https://copperkoi.cn/)** 西电同学，大一大佬
-- **[MintLab](https://www.mintlab.top/)** 爱折腾技术的大一大佬
+- **[CopperKoi](https://copperkoi.cn/)** 西电同学，大二大佬
+- **[MintLab](https://www.mintlab.top/)** 爱折腾技术的大二大佬
 - **[Potatowo](https://blog.potatowo.top/)** 福大 Web 大手子
 - **[秋风于渭水](https://www.tjsky.net/)**
-- **[晓蓝](https://blog.002.hk/)**
-- **[Reverier](https://www.woooo.tech/zh-cn/)**
-- **[fifker](https://blog.f1fk3r.top/)**
+- **[晓蓝](https://blog.002.hk/)** bc同事
+- **[Reverier](https://www.woooo.tech/zh-cn/)** 开发运维组老大
+- **[fifker](https://blog.f1fk3r.top/)** XDSEC老大
 - **[Frank](https://blog.frankli.site/)**
+- **[蚊子](https://blog.mosktrail.cn/)** 开发运维组里的xdx
